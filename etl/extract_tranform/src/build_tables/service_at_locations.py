@@ -1,13 +1,13 @@
 import hashlib
-from ..airtable_client import build_dict, add_dpmgid
-from ...data.hsds_columns import services_at_location_columns, locations_columns
+from ..airtable_client import build_dict
 
-required = ['id']
+required_keys = ['id']
 
 def add_keys_id(record, current, service_id):
     current['service_id'] = service_id
     current['location_id'] = record['id']
     current['id'] = hashlib.md5(((service_id + record['id'])).encode('utf-8')).hexdigest()
+    current['dpmgid'] = '69'
 
 def build_record(record, service_at_locations_table):
     service_ids = record['service_ids']
@@ -23,4 +23,4 @@ def complete_table():
     for record in locations_dict:
         if 'service_ids' in record.keys():
             build_record(record, service_at_locations_table)
-    return add_dpmgid(service_at_locations_table)
+    return service_at_locations_table

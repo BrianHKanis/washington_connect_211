@@ -1,40 +1,47 @@
-### USAGE --> python3 run.py ###
-## To Run the program ##
+### Whatcom County Airtable Connector
+
+# About
+The Whatcom County Airtable Connector retrieves data from Whatcom's Data Utility in Airtable, transforms this data as per the HSDS 3.0 Schema, then pushes it to the Whatcom Writer API. Designed to be deployed as a Dockerized container in Digital Ocean.
+
+
+## USAGE
+1. Install Required Libraries
+pip3 install -r requirements.txt
+
+2. Set Environmental Variables
+etl.extract_transform.env -> AIRTABLE_KEY, BASE_ID (Table ID)
+etl.load_export.env -> API_WRITER_ROOT_URL (Endpoint)
+
+3. Run
+python3 run.py
+
+4. Debugging - Execution Time
+python3 -i console.py
+
+
+
+# To Run the program #
 run.py
-   - Loads the 4 core-tables into memory and exports them into the 'data' folder.
+   - Builds and exports tables to the whatcom-writer API.
 console.py
-    - Testing and debugging. Writes json data to file per core table and outputs
-    time for each function in the console.
+    - For testing and debugging.
 
 
-# Functions that build related tables #
-build_tables
-    tables.py
-        - Contains table IDs and information for making get requests. Also has any general
-        functions for use across all tables.
-    hsds_columns.py
-        - Contains the specified columns by table as per HSDS.
-    core_tables
-        locations.py
-            - Functions for locations table.
-        organizations.py
-            - Functions for organizations table.
-        service_at_location.py
-            - Functions for service_at_location table.
-        services.py
-            - Functions for services table.
+# Building and Transforming Tables #
+extract_transform.src
+    build_tables
+        - Contains information and functions specific to it's coresponding table.
+    airtable_client.py
+        - Contains functions for connecting to Airtable and manipulating tables.
+    load_all.py
+        - Loads all tables in a list.
+        
 
-# Output and for testing #
-data
-- Contains the outputted core tables in .json format.
-    test_data
-        - Test data for testing all functions
+# Exporting #
+load_export.src
+    api_export.py
+        - Merges tables with their coresponding endpoint as a dictionary then exports through a put request.
 
-# Tests #
-tests
-    test_tables.py
-        - For testing general fucntions in the tables.py file. 
-    test_core_tables
-        - For testing the 4 core tables.
-    test_other_tables
-        - For testing all other tables.
+## Architecture
+
+Source Layer -> Ingestion Layer -> Transformation Layer

@@ -1,8 +1,13 @@
 import requests
-from ..data.hsds_columns import table_id_dict
+import hashlib
 from ..settings import airtable_key, base_id
 
 headers = {'Authorization': f'Bearer {airtable_key}'}
+table_id_dict = {'organizations': 'tblqoitqeXyTPwU8i', 'services': 'tbl55axdd1ToQnD8a',
+                 'locations': 'tblupy32maGd0av6I', 'phones': 'tblvSTMIx5OJBnV2m',
+                 'x-verification': 'tblhWvHJVmlgpIdVc', 'taxonomy_terms': 'tblGdXYo1onpkh7ow',
+                 'schedules': 'tblDtGJOo2adZBWui', 'x-taxonomies': 'tbljWxEZPvYL3CmVU',
+                 'physical_addresses': 'tblo9O05Tcxuhm5ro', 'contacts': 'tblX4DJEnxDCd3d6e'}
 
 def make_request(table_name):
     url = f'https://api.airtable.com/v0/{base_id}/'
@@ -44,7 +49,73 @@ def single_string_value_from_list(table, key_names):
                     record[key_name] = record[key_name][0]
     return table
 
-def add_dpmgid(table):
-    for record in table:
+def rename_columns(core_dict, columns_to_rename_dict):
+    for record in core_dict:
+            for k, v in columns_to_rename_dict.items():
+                if k in record.keys():
+                    new_key = v
+                    values = record[k]
+                    record[new_key] = values
+    return core_dict
+    
+def delete_columns(core_dict, columns_list):    
+    for record in core_dict:
+        for k, v in list(record.items()):
+            if k not in columns_list:
+                del record[k]
+    return core_dict
+
+def add_required_if_missing(core_dict, required_keys):
+    for record in core_dict:
         record['dpmgid'] = '69'
-    return table
+        for required_key in required_keys:
+            if required_key not in record.keys():
+                record[required_key] = " "
+    return core_dict
+
+def build_duplicate_record(record, id_to_hash, key):
+    new_record = record.copy()
+    #new_record['source_id'] = record['id']
+    new_record[key] = [id_to_hash]
+    new_record['id'] = hashlib.md5(((record['id'] + id_to_hash)).encode('utf-8')).hexdigest()
+    return new_record
+
+def duplicate_record_if_multiple_foreign_keys(core_dict, column_names):
+    for record in core_dict:
+        for column_name in column_names:
+            if column_name in record.keys():
+                if type(record[column_name]) == list: 
+                    if len(record[column_name]) > 1:
+                        foreign_keys = record[column_name]
+                        for foreign_key in foreign_keys:
+                            new_record = build_duplicate_record(record, foreign_key, column_name)
+                            core_dict.append(new_record)
+                        core_dict.remove(record)
+    return core_dict
+
+# def duplicate_record_if_multiple_foreign_keys_multiple_columns(core_dict, column_names):
+#     for column_name in column_names:
+#         duplicate_record_if_multiple_foreign_keys(core_dict, column_name)
+#     return core_dict
+
+def list_to_string(core_dict, column_name):
+    for record in core_dict:
+        if column_name in record.keys():
+            column_string = ', '.join(record[column_name])
+            record[column_name] = column_string
+    return core_dict
+
+def string_to_integer(core_dict, column_name):
+    for record in core_dict:
+        if column_name in record.keys():
+            column_int = int(record[column_name])
+            record[column_name] = column_int
+    return core_dict
+
+def remove_columns(core_dict, column_names):
+    for record in core_dict:
+        for column_name in column_names:
+            if column_name in record.keys(): 
+                del record[column_name]
+    return core_dict
+    
