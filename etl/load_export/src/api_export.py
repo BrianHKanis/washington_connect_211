@@ -21,9 +21,6 @@ def export_files(root_url):
                 print(f'{url} end point not reachable throwing status code {status.status_code}')
             if status.status_code == 404:
                 print(f'{url}  Failed with {status.status_code}')
-
-        
-            
         except requests.exceptions.ConnectionError:        
             continue
     return print('Done')

@@ -6,13 +6,13 @@ columns_for_testing = ['id', 'name', 'description', 'url', 'organization_id', 'l
 columns_to_rename = {'url': 'website'}
 columns_to_duplicate = ['organization_id', 'location_id']
 
-# def test_make_requests():
-#     responses = []
-#     table_keys = table_id_dict.keys()
-#     for key in table_keys:
-#         response = make_request(key)
-#         responses.append(response.status_code)
-#     assert set(responses) == {200}
+def test_make_requests():
+    responses = []
+    table_keys = table_id_dict.keys()
+    for key in table_keys:
+        response = make_request(key)
+        responses.append(response.status_code)
+    assert set(responses) == {200}
 
 def test_rename_columns():
     assert 'url' in data_for_testing[0].keys()
