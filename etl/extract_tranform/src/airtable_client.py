@@ -13,6 +13,10 @@ def make_request(table_name):
     url = f'https://api.airtable.com/v0/{base_id}/'
     request_url = url + table_id_dict[table_name]
     response = requests.get(request_url, headers=headers)
+    if response.status_code != 200:
+        raise Exception("Unable to Connect Air Table or Invalid keys") 
+    
+
     return response
 
 def get_next_url(url, records_json):
