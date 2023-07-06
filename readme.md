@@ -10,8 +10,8 @@ pip3 install -r requirements.txt
 
 2. Set Environmental Variables
 
-etl.extract_transform.env -> AIRTABLE_KEY, BASE_ID (Table ID)
-etl.load_export.env -> API_WRITER_ROOT_URL (Endpoint)
+etl.extract_transform.env -> AIRTABLE_KEY, BASE_ID (Table ID)__
+etl.load_export.env -> API_WRITER_ROOT_URL (Endpoint)__
 
 3. Run
 python3 run.py
@@ -23,7 +23,7 @@ python3 -i console.py
 
 # To Run the program #
 run.py
-   - Builds and exports tables to the whatcom-writer API.
+   - Builds and exports tables to the whatcom-writer API.__
 console.py
     - For testing and debugging.
 
