@@ -21,9 +21,10 @@ python3 -i console.py
 
 
 
-# To Run the program #
+# To Run the program
 run.py  
    - Builds and exports tables to the whatcom-writer API.    
+  
 console.py  
     - For testing and debugging.
 
