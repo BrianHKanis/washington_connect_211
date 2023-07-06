@@ -8,7 +8,7 @@ The Whatcom County Airtable Connector retrieves data from Whatcom's Data Utility
 1. Install Required Libraries
 pip3 install -r requirements.txt
 
-2. Set Environmental Variables:
+2. Set Environmental Variables:  
     etl.extract_transform.env -> AIRTABLE_KEY, BASE_ID (Table ID)  
     etl.load_export.env -> API_WRITER_ROOT_URL (Endpoint)  
 
@@ -30,18 +30,18 @@ console.py
 
 # Building and Transforming Tables #
 extract_transform.src
-    build_tables
-        - Contains information and functions specific to it's coresponding table.
-    airtable_client.py
-        - Contains functions for connecting to Airtable and manipulating tables.
-    load_all.py
-        - Loads all tables in a list.
+    build_tables  
+        - Contains information and functions specific to it's coresponding table.  
+    airtable_client.py  
+        - Contains functions for connecting to Airtable and manipulating tables.  
+    load_all.py  
+        - Loads all tables in a list.  
         
 
 # Exporting #
-load_export.src
-    api_export.py
-        - Merges tables with their coresponding endpoint as a dictionary then exports through a put request.
+load_export.src  
+    api_export.py  
+        - Merges tables with their coresponding endpoint as a dictionary then exports through a put request.  
 
 ## Architecture
 
