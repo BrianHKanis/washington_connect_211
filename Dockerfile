@@ -10,5 +10,5 @@ WORKDIR /connect_211
 
 COPY . .
 
-CMD ["python3", "run.py"]
+CMD ["python3", "console.py"]
 

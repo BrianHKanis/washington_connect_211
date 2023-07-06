@@ -15,13 +15,12 @@ def export_files(root_url):
     for k, v in merged.items():
         url = root_url + str('/hsds3/') + str(k)
         status = requests.put(url, json.dumps(v))
-        try:
-            if status.status_code == 204:
-
-                print(f'{url} end point not reachable throwing status code {status.status_code}')
-            if status.status_code == 404:
-                print(f'{url}  Failed with {status.status_code}')
-        except requests.exceptions.ConnectionError:        
-            continue
+        # try:
+        #     if status.status_code == 204:
+        #         print(f'{url} end point not reachable throwing status code {status.status_code}')
+        #     if status.status_code == 404:
+        #         print(f'{url}  Failed with {status.status_code}')
+        # except requests.exceptions.ConnectionError:        
+        #     continue
     return print('Done')
 
