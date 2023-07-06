@@ -46,3 +46,5 @@ load_export.src
 ## Architecture
 
 Source Layer -> Ingestion Layer -> Transformation Layer
+
+![Alt text](relative%20path/to/diagram.jpg?raw=true "Title")
