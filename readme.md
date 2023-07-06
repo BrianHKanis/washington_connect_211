@@ -47,4 +47,4 @@ load_export.src
 
 Source Layer -> Ingestion Layer -> Transformation Layer
 
-![Alt text](relative%20path/to/diagram.jpg?raw=true "Title")
+![Alt text](diagram.jpg?raw=true "Title")
