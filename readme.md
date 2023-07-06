@@ -32,8 +32,10 @@ console.py
 extract_transform.src
     build_tables  
         - Contains information and functions specific to it's coresponding table.  
+          
     airtable_client.py  
         - Contains functions for connecting to Airtable and manipulating tables.  
+          
     load_all.py  
         - Loads all tables in a list.  
         
