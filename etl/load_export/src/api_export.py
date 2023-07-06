@@ -1,5 +1,5 @@
 import requests, os, json
-from ...extract_tranform.src.load_all import load_all_tables
+from ...extract_transform.src.load_all import load_all_tables
 
 topic_names = ['organization', 'location', 'service', 'service_at_location',
         'contact', 'schedule', 'phone', 'taxonomy', 'taxonomy_term']

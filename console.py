@@ -1,6 +1,6 @@
 import requests, json, time
 from etl.load_export.settings import api_writer_root_url
-from etl.extract_tranform.src.build_tables import organizations, locations, services, service_at_locations, contacts, schedules, phones, taxonomy_terms, taxonomies
+from etl.extract_transform.src.build_tables import organizations, locations, services, service_at_locations, contacts, schedules, phones, taxonomy_terms, taxonomies
 topic_names = ['organization', 'location', 'service', 'service_at_location',
         'contact', 'schedule', 'phone', 'taxonomy', 'taxonomy_term']
 
