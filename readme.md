@@ -26,7 +26,7 @@ The Whatcom County Airtable Connector retrieves data from Whatcom's Data Utility
     console.py  
         - For testing and debugging.  
 
-## Program details
+## Program Details
 ### Building and Transforming Tables
 extract_transform/src/   
 
