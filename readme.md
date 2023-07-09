@@ -5,8 +5,8 @@ The Whatcom County Airtable Connector retrieves data from Whatcom's Data Utility
 
 
 ## USAGE
-1. Install Required Libraries
-pip3 install -r requirements.txt
+1. Install Required Libraries   
+```pip3 install -r requirements.txt```
 
 2. Set Environmental Variables:  
     etl/extract_transform/.env -> AIRTABLE_KEY & BASE_ID (Table ID)  
