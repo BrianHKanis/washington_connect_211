@@ -14,7 +14,7 @@ def make_request(table_name):
     request_url = url + table_id_dict[table_name]
     response = requests.get(request_url, headers=headers)
     if response.status_code != 200:
-        raise Exception("Unable to Connect Air Table or Invalid keys") 
+        raise Exception("Unable to Connect Air Table. Please check your authentication keys") 
     return response
 
 def get_next_url(url, records_json):
@@ -90,7 +90,6 @@ def duplicate_record_if_multiple_foreign_keys(core_dict, column_names):
                     if len(record[column_name]) > 1:
                         foreign_keys = record[column_name]
                         for foreign_key in foreign_keys:
-                            
                             new_record = build_duplicate_record(record, foreign_key, column_name)
                             core_dict.append(new_record)
                         core_dict.remove(record)

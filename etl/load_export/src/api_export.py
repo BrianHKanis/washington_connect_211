@@ -16,11 +16,8 @@ def export_files(root_url):
         url = root_url + str('/hsds3/') + str(k)
         status = requests.put(url, json.dumps(v))
         # try:
-        #     if status.status_code == 204:
-        #         print(f'{url} end point not reachable throwing status code {status.status_code}')
-        #     if status.status_code == 404:
-        #         print(f'{url}  Failed with {status.status_code}')
-        # except requests.exceptions.ConnectionError:        
-        #     continue
+        #     status.raise_for_status()
+        # except requests.exceptions.HTTPError as err:
+        #     print(err.response)
     return print('Done')
 

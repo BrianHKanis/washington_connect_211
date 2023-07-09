@@ -49,4 +49,4 @@ load_export.src
 
 Source Layer -> Ingestion Layer -> Transformation Layer
 
-![Alt text](diagram.jpg?raw=true "Title")
+![Alt text](architecture_diagram.png?raw=true "Title")
