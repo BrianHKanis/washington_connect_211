@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 3. Run
 python3 run.py
 
-4. Debugging - Execution Time
+4. Debugging & Execution Time 
 python3 -i console.py
 
 
