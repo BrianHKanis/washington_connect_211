@@ -1,6 +1,6 @@
-### Whatcom County Airtable Connector
+# Whatcom County Airtable Connector
 
-# About
+## About
 The Whatcom County Airtable Connector retrieves data from Whatcom's Data Utility in Airtable, transforms this data as per the HSDS 3.0 Schema, then pushes it to the Whatcom Writer API. Designed to be deployed as a Dockerized container in Digital Ocean.
 
 
@@ -28,23 +28,23 @@ console.py
     - For testing and debugging.
 
 
-# Building and Transforming Tables #
+## Building and Transforming Tables
 extract_transform.src
     build_tables  
         - Contains information and functions specific to it's coresponding table.  
           
     airtable_client.py  
-        - Contains functions for connecting to Airtable and manipulating tables.  
+        - Contains functions for connecting to Airtable and transforming tables.  
           
     load_all.py  
         - Loads all tables in a list.  
         
 
-# Exporting #
+## Exporting
 load_export.src  
     api_export.py  
         - Merges tables with their coresponding endpoint as a dictionary then exports through a put request.  
 
-## Architecture
+# Architecture
 
 ![Alt text](architecture_diagram.png?raw=true "Title")
