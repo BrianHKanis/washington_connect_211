@@ -15,9 +15,9 @@ def export_files(root_url):
     for k, v in merged.items():
         url = root_url + str('/hsds3/') + str(k)
         status = requests.put(url, json.dumps(v))
-        # try:
-        #     status.raise_for_status()
-        # except requests.exceptions.HTTPError as err:
-        #     print(err.response)
+        try:
+            status.raise_for_status()
+        except requests.exceptions.HTTPError as err:
+            print(err.response)
     return print('Done')
 
