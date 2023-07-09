@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 3. Run  
 python3 run.py
 
-4. Debugging & Execution Time   
+4. Run with Debugging & Execution Time   
 python3 -i console.py
 
 
@@ -29,7 +29,8 @@ console.py
 
 
 ## Building and Transforming Tables
-extract_transform.src
+extract_transform.src   
+
     build_tables  
         - Contains information and functions specific to it's coresponding table.  
           
