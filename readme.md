@@ -39,7 +39,8 @@ extract_transform/src/
     load_all.py  
         - Loads all tables in a list.  
 ### Exporting
-load_export.src  
+load_export.src/  
+    
     api_export.py  
         - Merges tables with their coresponding endpoint as a dictionary then exports through a put request.  
 
