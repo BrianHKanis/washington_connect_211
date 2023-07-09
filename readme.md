@@ -21,17 +21,16 @@ pip3 install -r requirements.txt
 
 
 # To Run the program
-run.py  
-    - Builds and exports tables to the whatcom-writer API.    
-  
-console.py  
-    - For testing and debugging.  
+    run.py  
+        - Builds and exports tables to the whatcom-writer API.    
+    console.py  
+        - For testing and debugging.  
 
-
-## Building and Transforming Tables
+## Program details
+### Building and Transforming Tables
 extract_transform/src/   
 
-    build_tables  
+    build_tables/  
         - Contains information and functions specific to it's coresponding table.  
           
     airtable_client.py  
@@ -39,9 +38,7 @@ extract_transform/src/
           
     load_all.py  
         - Loads all tables in a list.  
-        
-
-## Exporting
+### Exporting
 load_export.src  
     api_export.py  
         - Merges tables with their coresponding endpoint as a dictionary then exports through a put request.  
