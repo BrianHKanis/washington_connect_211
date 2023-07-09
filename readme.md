@@ -13,10 +13,10 @@ pip3 install -r requirements.txt
     etl.load_export.env -> API_WRITER_ROOT_URL (Endpoint)  
 
 3. Run  
-python3 run.py
+```python3 run.py```
 
 4. Run with Debugging & Execution Time   
-python3 -i console.py
+```python3 -i console.py```
 
 
 
@@ -29,8 +29,7 @@ console.py
 
 
 ## Building and Transforming Tables
-extract_transform.src   
-
+extract_transform/src/   
     build_tables  
         - Contains information and functions specific to it's coresponding table.  
           
