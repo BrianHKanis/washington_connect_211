@@ -12,10 +12,10 @@ pip3 install -r requirements.txt
     etl.extract_transform.env -> AIRTABLE_KEY, BASE_ID (Table ID)  
     etl.load_export.env -> API_WRITER_ROOT_URL (Endpoint)  
 
-3. Run
+3. Run  
 python3 run.py
 
-4. Debugging & Execution Time 
+4. Debugging & Execution Time   
 python3 -i console.py
 
 
@@ -25,7 +25,7 @@ run.py
     - Builds and exports tables to the whatcom-writer API.    
   
 console.py  
-    - For testing and debugging.
+    - For testing and debugging.  
 
 
 ## Building and Transforming Tables
