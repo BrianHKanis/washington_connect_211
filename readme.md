@@ -42,7 +42,7 @@ extract_transform/src/
 load_export.src/  
     
     api_export.py  
-        - Merges tables with their coresponding endpoint as a dictionary then exports   through a put request.  
+        - Merges tables with their coresponding endpoint as a dictionary then export through a put request.  
 
 # Architecture
 

@@ -77,12 +77,13 @@ def add_required_if_missing(core_dict, required_keys):
 
 def build_duplicate_record(record, id_to_hash, key):
     new_record = record.copy()
-    #new_record['source_id'] = record['id']         # Talk to Skyler to add to schema
+    #new_record['source_id'] = record['id']       Talk to Skyler to add to schema
     new_record[key] = [id_to_hash]
     new_record['id'] = hashlib.md5(((record['id'] + id_to_hash)).encode('utf-8')).hexdigest()
     return new_record
 
 def duplicate_record_if_multiple_foreign_keys(core_dict, column_names):
+    records_to_remove = []
     for record in core_dict:
         for column_name in column_names:
             if column_name in record.keys():
@@ -90,18 +91,10 @@ def duplicate_record_if_multiple_foreign_keys(core_dict, column_names):
                     foreign_keys = record[column_name]
                     new_records = [build_duplicate_record(record, foreign_key, column_name) for foreign_key in foreign_keys]
                     [core_dict.append(record) for record in new_records]
-                    core_dict.remove(record)
-
-                    # for foreign_key in foreign_keys:
-                    #     new_record = build_duplicate_record(record, foreign_key, column_name)
-                    #     core_dict.append(new_record)
-                    
+                    records_to_remove.append(record)
+    for record in records_to_remove:
+        core_dict.remove(record)
     return core_dict
-
-# def duplicate_record_if_multiple_foreign_keys_multiple_columns(core_dict, column_names):
-#     for column_name in column_names:
-#         duplicate_record_if_multiple_foreign_keys(core_dict, column_name)
-#     return core_dict
 
 def list_to_string(core_dict, column_name):
     for record in core_dict:
@@ -123,4 +116,3 @@ def remove_columns(core_dict, column_names):
             if column_name in record.keys(): 
                 del record[column_name]
     return core_dict
-    

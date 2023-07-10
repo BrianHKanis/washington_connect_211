@@ -16,8 +16,6 @@ def complete_table():
     schedule_with_deletes = delete_columns(schedule_hsds, schedule_columns)
     schedules = add_required_if_missing(schedule_with_deletes, required_keys)
     schedules_with_duplicates = duplicate_record_if_multiple_foreign_keys(schedules, foreign_keys_to_duplicate) 
-    duplicate_record_if_multiple_foreign_keys(schedules_with_duplicates, foreign_keys_to_duplicate) 
-    # Ran twice 
     schedules_with_strings = single_string_value_from_list(schedules_with_duplicates, foreign_keys_to_duplicate)
     remove_columns(schedules_with_strings, columns_to_remove)
     list_to_string(schedules_with_strings, 'byday')
