@@ -8,7 +8,7 @@ schedule_columns = ['id', 'service_id','location_id','service_at_location_id','v
                 'attending_type' ,'notes','attributes','metadata']
 columns_to_rename = {'location_ids': 'location_id', 'service_ids': 'service_id'}
 foreign_keys_to_duplicate = ['location_id', 'service_id']
-columns_to_remove = ['interval', 'bymonthday']
+columns_to_remove = ['bymonthday', 'interval']
 
 def complete_table():
     schedule_records = build_dict('schedules')

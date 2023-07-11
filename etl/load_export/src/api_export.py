@@ -18,6 +18,6 @@ def export_files(root_url):
         try:
             status.raise_for_status()
         except requests.exceptions.HTTPError as err:
-            print(err.response)
+            print(url, err.response)
     return print('Done')
 

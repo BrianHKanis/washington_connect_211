@@ -57,7 +57,7 @@ print('Exporting...')
 export_files(merged, api_writer_root_url)
 end_time = time.time()
 print()
-print('Total Time: ' + str(end_time-start_time))
+print('Total Time: ' + str(round(end_time-start_time, 5)) + ' seconds')
 
 
 
