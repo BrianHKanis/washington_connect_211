@@ -1,4 +1,4 @@
-import requests
+import requests, json
 import hashlib
 from ..settings import airtable_key, base_id
 

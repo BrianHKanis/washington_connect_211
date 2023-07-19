@@ -4,8 +4,8 @@ required_keys = ['id', 'location_type', 'organization_id']
 locations_columns = ["id", "location_type", "url", "organization_id", "name",
                 "alternate_name", "description", "transportation", "latitude",
                 "longitude", "external_identifier", "external_identifier_type",
-                "languages", "addresses", "contacts", "accessibility", "phones",
-                "schedules", "attributes", "metadata"]
+                "languages", "addresses", "contacts", "accessibility",
+                "attributes", "metadata"] #"phones", "schedules"
 
 columns_to_rename = {'schedule': 'schedules', 'organization_ids': 'organization_id'}
 

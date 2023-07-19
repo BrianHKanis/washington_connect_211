@@ -4,8 +4,8 @@ required_keys= ['id', 'name', 'description']
 organizations_columns = ['id', 'name', 'alternate_name', 'description', 'email', 'website',
                          'tax_status', 'tax_id', 'year_incorporated', 'legal_status', 'logo',
                          'uri', 'parent_organization', 'funding', 'contacts',
-                         'locations', 'programs', 'organization_identifiers', 'attributes'
-                         'metadata']
+                         'programs', 'organization_identifiers', 'attributes'
+                         'metadata'] #'locations'
 columns_to_rename = {'url': 'website'}
 
 def complete_table():
