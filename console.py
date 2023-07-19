@@ -51,13 +51,14 @@ all_tables = load_all_tables()
 print('Tables Loaded')
 print()
 merged = merge_endpoints(all_tables, topic_names)
-print('Endpoints paired with coresponding table')
-print()
-print('Exporting...')
-export_files(merged, api_writer_root_url)
-end_time = time.time()
-print()
-print('Total Time: ' + str(round(end_time-start_time, 5)) + ' seconds')
+
+# print('Endpoints paired with coresponding table')
+# print()
+# print('Exporting...')
+# export_files(merged, api_writer_root_url)
+# end_time = time.time()
+# print()
+# print('Total Time: ' + str(round(end_time-start_time, 5)) + ' seconds')
 
 
 
