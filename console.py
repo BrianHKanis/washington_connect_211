@@ -52,6 +52,13 @@ print('Tables Loaded')
 print()
 merged = merge_endpoints(all_tables, topic_names)
 
+
+with open("mydata.json", "w") as final:
+   json.dump(merged, final, indent=4)
+
+# with open('mydata.json', 'r') as f: #For quicker worflow rather than importing
+#     table_data = json.load(f)
+
 # print('Endpoints paired with coresponding table')
 # print()
 # print('Exporting...')
@@ -59,6 +66,7 @@ merged = merge_endpoints(all_tables, topic_names)
 # end_time = time.time()
 # print()
 # print('Total Time: ' + str(round(end_time-start_time, 5)) + ' seconds')
+
 
 
 

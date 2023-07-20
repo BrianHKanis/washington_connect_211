@@ -72,12 +72,12 @@ def add_required_if_missing(core_dict, required_keys):
         record['dpmgid'] = '69'
         for required_key in required_keys:
             if required_key not in record.keys():
-                record[required_key] = " "
+                record[required_key] = ""
     return core_dict
 
 def build_duplicate_record(record, id_to_hash, key):
     new_record = record.copy()
-    #new_record['source_id'] = record['id']       Talk to Skyler to add to schema
+    new_record['source_id'] = record['id']       #Talk to Skyler to add to schema
     new_record[key] = [id_to_hash]
     new_record['id'] = hashlib.md5(((record['id'] + id_to_hash)).encode('utf-8')).hexdigest()
     return new_record

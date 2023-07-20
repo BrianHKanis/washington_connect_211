@@ -1,7 +1,9 @@
 from ..airtable_client import build_dict, single_string_value_from_list, rename_columns, delete_columns, add_required_if_missing, string_to_integer, duplicate_record_if_multiple_foreign_keys
 import json
 required_keys = ['id', 'number']
-phone_columns = ['id', 'location_id', 'service_id', 'organization_id', 'contact_id', 'service_at_location_id', 'number', 'extension', 'type', 'description', 'languages', 'attributes', 'metadata']
+phone_columns = ['id', 'location_id', 'service_id', 'organization_id', 'contact_id',
+                 'service_at_location_id', 'number', 'extension', 'type', 'description',
+                 'languages', 'attributes', 'metadata']
 columns_to_rename = {'location_ids': 'location_id', 'service_ids': 'service_id',
                      'organization_ids': 'organization_id', 'contacts': 'contact_id'}
 foreign_keys_to_duplicate = ['location_id', 'service_id', 'organization_id']
