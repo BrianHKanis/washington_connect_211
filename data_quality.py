@@ -17,11 +17,9 @@ poor_data = {'spaces': [], 'backslash': [],
 def append_to_log(defect_type, table_name, record, v):
     if 'source_id' in record.keys():
         data_dict = {'table_name': table_name, 'id': record['id'], 'source_id': record['source_id'], 'value': v}
-        print(data_dict)
         poor_data[defect_type].append(data_dict)
     else:
         data_dict = {'table_name': table_name, 'id': record['id'], 'value': v}
-        print(data_dict)
         poor_data[defect_type].append(data_dict)
 
 def find_spaces(table_name):

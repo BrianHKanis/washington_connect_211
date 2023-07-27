@@ -17,6 +17,6 @@ def complete_table():
     schedules = add_required_if_missing(schedule_with_deletes, required_keys)
     schedules_with_duplicates = duplicate_record_if_multiple_foreign_keys(schedules, foreign_keys_to_duplicate) 
     schedules_with_strings = single_string_value_from_list(schedules_with_duplicates, foreign_keys_to_duplicate)
-    remove_columns(schedules_with_strings, columns_to_remove)
+    # remove_columns(schedules_with_strings, columns_to_remove)
     list_to_string(schedules_with_strings, 'byday')
     return schedules_with_strings
