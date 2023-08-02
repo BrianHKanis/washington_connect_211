@@ -1,0 +1,675 @@
+{
+    "spaces": [
+        {
+            "table_name": "organization",
+            "id": "recNdrqhtmgnp5iEA",
+            "value": " http://www.seanhumphreyhouse.org"
+        },
+        {
+            "table_name": "organization",
+            "id": "recZV2xq479HEXVC5",
+            "value": " WhatcomLTRG@gmail.com"
+        },
+        {
+            "table_name": "organization",
+            "id": "recaNfFwzhorwerGZ",
+            "value": " customerservice@ridewta.com\u200b"
+        },
+        {
+            "table_name": "organization",
+            "id": "recfPcfixvgRYPbpO",
+            "value": " National Alliance on Mental Illness of Whatcom County"
+        },
+        {
+            "table_name": "organization",
+            "id": "recgi7Q5HWNjV0Fbs",
+            "value": " info@YWCAbellingham.org "
+        },
+        {
+            "table_name": "service",
+            "id": "rec7uEDo7PybxEVHX",
+            "value": " info@kulshanclt.org"
+        },
+        {
+            "table_name": "service",
+            "id": "recAUnT2qNaHwkvsW",
+            "value": " A 2-3 hour long mediation process for parents/guardians and teens to resolve conflicts."
+        },
+        {
+            "table_name": "service",
+            "id": "recDR47AB2jLwscj9",
+            "value": " WhatcomLTRG@gmail.com"
+        },
+        {
+            "table_name": "service",
+            "id": "recLbtkXsuKVgysx9",
+            "value": " info@YWCAbellingham.org"
+        },
+        {
+            "table_name": "service",
+            "id": "recWZJjSqUEKf3zFr",
+            "value": " No application is required. Staff are on-site and available 24 hours a day to support any youth in crisis."
+        },
+        {
+            "table_name": "service",
+            "id": "rechhr9EEH6gnSP0Z",
+            "value": " info@whatcomdream.org"
+        },
+        {
+            "table_name": "service",
+            "id": "recraSjIzLQW9vKxY",
+            "value": " Unbiased emotional support and resources provided by trained Parent Guides to families with children with hearing loss."
+        },
+        {
+            "table_name": "phone",
+            "id": "recUAaN0hOIyxuU2n",
+            "value": " 1-833-926-3384"
+        }
+    ],
+    "non_breaking_space": [
+        {
+            "table_name": "organization",
+            "id": "rec1FfYg3cqbowgNu",
+            "value": "Provides high quality, safe and fun adaptive horsemanship and riding lessons. Participants range in age from 4-74 and include individuals with physical, cognitive, emotional, behavioral and sensory disabilities.\u00a0"
+        },
+        {
+            "table_name": "organization",
+            "id": "recK9D3nLQtWqdwvd",
+            "value": "A non-profit organization that provides free financial empowerment courses and community education.\u00a0"
+        },
+        {
+            "table_name": "service",
+            "id": "rechhr9EEH6gnSP0Z",
+            "value": "Program to help Whatcom Dream Financial Empowerment Course Graduates purchase school clothing and supplies for their children. Participants can purchase a $100 gift card for only $25. Proceeds go into a scholarship fund, which allows Whatcom Dream to offer Financial Empowerment courses for free. \u00a0"
+        },
+        {
+            "table_name": "service",
+            "id": "recoRHWLi7Jj3fuKc",
+            "value": "Bellingham Public Library provides Outreach services to Bellingham residents who, because of age, illness, or long-term disability of three months or more, are unable to visit the library in person. Individuals who are confined to their homes may arrange to have a family member, volunteer, or caregiver pick up and deliver pre-selected library materials to them. Monthly service is scheduled at various\u00a0Assisted Living / Health Care facilities in Bellingham."
+        }
+    ],
+    "width_space": [
+        {
+            "table_name": "organization",
+            "id": "recH88c1gUKsOqaKi",
+            "value": "\u200bDads M.O.V.E."
+        },
+        {
+            "table_name": "organization",
+            "id": "recaNfFwzhorwerGZ",
+            "value": " customerservice@ridewta.com\u200b"
+        },
+        {
+            "table_name": "organization",
+            "id": "recaNfFwzhorwerGZ",
+            "value": "Provides public transportation services throughout Whatcom County. Services include Fixed Routes, Paratransit, Zone Service\u200b and a Vanpool program.\u200b \u200b"
+        },
+        {
+            "table_name": "service",
+            "id": "rec6ysmY2F4rfdxS5",
+            "value": "Scholarship offered to teens ages 15 to 17 who are homeless, low-income, or in foster care. Application, essay, parent/guardian letter of reference, and school transcript are required for application. Typically, the scholarship grants up to $400 toward driver's education and is limited to a certain number of scholarships available each Spring and Fall. Award is based on both merit and need.\u200b"
+        },
+        {
+            "table_name": "service",
+            "id": "recGMf9YMyBYgVvDN",
+            "value": "Provides curb-to-curb (and if needed, door-to-door) transportation to riders whose disability prevents them from riding fixed route bus system. \u200bEveryone who rides paratransit must qualify and be approved before riding. Read about paratransit eligibility online. "
+        },
+        {
+            "table_name": "service",
+            "id": "recPXop1WMzmTTHUk",
+            "value": "Call to set an appointment the last week of October, and an application will be mailed to you.\u200b"
+        },
+        {
+            "table_name": "service",
+            "id": "recVoClMgdf2US5Yt",
+            "value": "Temporary housing program for young adults ages 18 to 24. Provides four beds at each location (Bellingham and Mt. Vernon) where young adults can stay for up to 90 days. Note: HUSLY is accessed through a main application process and is NOT first come, first served.\n\n\u200b"
+        },
+        {
+            "table_name": "service",
+            "id": "recVoClMgdf2US5Yt",
+            "value": "Contact the housing coordinator Rebecca to ask questions and get started on their housing process. \n\n\u200b"
+        },
+        {
+            "table_name": "service",
+            "id": "recWZJjSqUEKf3zFr",
+            "value": "Emergency housing program that offers housing for minors, ages 13-17 years for up to 90 days. Emergency housing helps youth reprieve and recover from crises, access critical services, and begin to set future goals for safety and stability.\n\u200b\n  "
+        },
+        {
+            "table_name": "service",
+            "id": "recuIABDdtEcTfi4U",
+            "value": "\u200bLGBT National \u200bOnline Peer-Support Chat"
+        },
+        {
+            "table_name": "service",
+            "id": "recuXkrixHpZErFwf",
+            "value": "Grants Little Wishes to children ages 6 to 18 for ongoing support of lessons and activities including, but not limited to, art lessons, music lessons, martial arts, team sports, swimming lessons, dance, gymnastics, ice skating, ice hockey, horseback riding, and soccer.\u200b"
+        },
+        {
+            "table_name": "service",
+            "id": "recunoietMr9ZZFVl",
+            "value": "Fixed routes provide service to designated bus stops using large transit buses.\u200b\u200b \u200bWTA provides service seven days a week, with more limited service on Saturdays, Sundays and evenings.\u200b Fixed routes serve Bellingham, Ferndale, Lynden, Blaine and Birch Bay, Lummi Nation, Sudden Valley, Kendall, Everson, Nooksack and Sumas. "
+        },
+        {
+            "table_name": "phone",
+            "id": "recaWqo1hXmnqtvx7",
+            "value": "\u200b800-246-7743"
+        },
+        {
+            "table_name": "phone",
+            "id": "recgCVCJdSEKYSPgH",
+            "value": "\u200b888-234-7243"
+        },
+        {
+            "table_name": "phone",
+            "id": "recmEm2pnT1ZajVAk",
+            "value": "(360) \u200b788-9319\u200b"
+        },
+        {
+            "table_name": "phone",
+            "id": "aa5f62a87f9b77ee0bf47326cf36db86",
+            "source_id": "rec3noJeABKSPEwVD",
+            "value": "\u200b360-354-2921"
+        },
+        {
+            "table_name": "phone",
+            "id": "01818003f30e438f6c536996ed30ca7f",
+            "source_id": "rec3noJeABKSPEwVD",
+            "value": "\u200b360-354-2921"
+        }
+    ],
+    "newline": [
+        {
+            "table_name": "schedule",
+            "id": "8820af261bb561d5dfd4feebfa8237f3",
+            "source_id": "receNHYv18zzp4otP",
+            "value": "Closed for lunch 12:00 - 1:00 PM. \nClosed on all recognized holidays."
+        },
+        {
+            "table_name": "schedule",
+            "id": "75cf13644bc23d9a3c509d22acd2707b",
+            "source_id": "receNHYv18zzp4otP",
+            "value": "Closed for lunch 12:00 - 1:00 PM. \nClosed on all recognized holidays."
+        },
+        {
+            "table_name": "schedule",
+            "id": "e954cb290f5bc1c7ce20d82e2cbf0732",
+            "source_id": "receNHYv18zzp4otP",
+            "value": "Closed for lunch 12:00 - 1:00 PM. \nClosed on all recognized holidays."
+        }
+    ],
+    "double_quotes": [
+        {
+            "table_name": "organization",
+            "id": "receOMON0UALMps8l",
+            "value": "Before and after school \"clubhouse\" programs impact kids positively through academic success, good citizenship, healthy lifestyles, and athletic programs. Clubhouses are located across Whatcom County in in Bellingham, Ferndale, Lynden and Blaine.  "
+        },
+        {
+            "table_name": "service",
+            "id": "rec44lF9rgxOGluq4",
+            "value": "Texting service to provide support for LGBTQ+ Native youth. Text \"LGBTQ2S\" or \"ALLY\" to 94449."
+        },
+        {
+            "table_name": "service",
+            "id": "rec44lF9rgxOGluq4",
+            "value": "Text \"LGBTQ2S\" or \"ALLY\" to 94449, or register online."
+        },
+        {
+            "table_name": "service",
+            "id": "rec4GTMBAqgwKvv7a",
+            "value": "Contact an eligible vendor and ask for \"intake\" to set up an account. "
+        },
+        {
+            "table_name": "service",
+            "id": "rec72COO8f28S5ZY5",
+            "value": "Library of free \"know your rights\" articles, videos, court forms and do-it-yourself packets covering many common legal issues such as family law, eviction/housing, public benefits and money/debt problems. "
+        },
+        {
+            "table_name": "service",
+            "id": "rec9pFtqdk3WYff65",
+            "value": "There are two primary ways to receive help: request volunteers to help with simple work, or submit a request for help/financial assistance which will be shared with church partners. There are no guarantees for assistance, and it can take some time (often 3-8 weeks) to arrange. Fill out the \"Get Help\" form online to request assistance."
+        },
+        {
+            "table_name": "service",
+            "id": "rec9pFtqdk3WYff65",
+            "value": "Fill out the \"Get Help\" form online to request assistance."
+        },
+        {
+            "table_name": "service",
+            "id": "recAKC0Hq8Ihi1vBx",
+            "value": "Provides food to Blaine, Custer, Birch Bay, and Semiahmoo residents. Fresh fruits and vegetables, dairy, protein, and bakery items offered in an \"outdoor undercover farmers market\" setting."
+        },
+        {
+            "table_name": "service",
+            "id": "recYuS8CVZ4jsqB09",
+            "value": "Go online to website and click \"request an application\". "
+        },
+        {
+            "table_name": "service",
+            "id": "recbCEN8AQqNzqvD8",
+            "value": "Text \"START\" to reach a crisis counselor. "
+        },
+        {
+            "table_name": "service",
+            "id": "reccsPXWUZymm5nvM",
+            "value": "Before and after school \"clubhouse\" programs for grades K-12 impact kids positively through academic success, good citizenship, healthy lifestyles, and athletic programs. Athletic programming varies by location. "
+        },
+        {
+            "table_name": "service",
+            "id": "recz045wuM35Nc7A8",
+            "value": "Allows groups of people to \"lease\" a WTA-owned van for the purpose of commuting to and from a common worksite. The vanpool group pays a fare based on the number of miles the van travels each month. Fares cover all costs to operate the van, including fuel, maintenance and insurance. "
+        },
+        {
+            "table_name": "phone",
+            "id": "recddFtcgOApHPfmF",
+            "value": "Text \"START\" to 88788"
+        },
+        {
+            "table_name": "phone",
+            "id": "recob4mGLW0pD1WF4",
+            "value": "Text the word \"NATIVE\" to connect with a crisis counselor. "
+        }
+    ],
+    "non_castable": [
+        {
+            "table_name": "schedule",
+            "id": "rec7I1ItaEwWJEMlC",
+            "value": "Once a month meeting"
+        },
+        {
+            "table_name": "schedule",
+            "id": "recSngOWfD5QAidlt",
+            "value": "Last Saturday of the month, January through October"
+        },
+        {
+            "table_name": "schedule",
+            "id": "recTLxBro6f610B2I",
+            "value": "First Friday of each month."
+        },
+        {
+            "table_name": "schedule",
+            "id": "recZLgDKUCoDyWzsd",
+            "value": "First and third Thursday of each month."
+        }
+    ],
+    "semi_colons": [
+        {
+            "table_name": "organization",
+            "id": "recvl3stV8ZXU9fJq",
+            "value": "Promotes the well-being of children, youth, and families by convening and supporting communities to build their capacity. WFCN networks for collective action on issues that matter; to develop community capacity through prevention strategies, such as leadership and skill development and increasing healthy activities to reduce substance abuse and other harmful behavior."
+        },
+        {
+            "table_name": "organization",
+            "id": "recwPly6FfbEW7Q64",
+            "value": "Supports programs to increase awareness of the sacrifices of America\u2019s veterans; promote citizenship education, volunteerism and positive youth programs; and facilitate medical, rehabilitative, educational and employment services and needs for veterans and their families."
+        },
+        {
+            "table_name": "service",
+            "id": "rec16JlvWoBrHAn1a",
+            "value": "Renew, replace or apply for a driver license, ID card, or instruction permit; renew vehicle tabs or boat decals; get new license plates; report a vehicle sale or transfer of ownership; register a vehicle or boat; get a disabled parking placard or tabs; and more. "
+        },
+        {
+            "table_name": "service",
+            "id": "recAd5jYy3XqnH8Yj",
+            "value": "Help for people with dementia and their caregivers. Can provide support and make referrals to individuals experiencing dementia including for memory screening, medical diagnosis, and support groups; support to caregivers of people with dementia of all levels, including consultation, options counseling, care planning, and appropriate referrals; dementia education; legal resources; social opportunities; and more. "
+        },
+        {
+            "table_name": "service",
+            "id": "recBwnyE8P3Adl06c",
+            "value": "24-hour services include picking up stray, injured, aggressive, dangerous and dead animals; transportation and impoundment of stray animals to the shelter for impound, or in cases of emergency, to a veterinarian for medical treatment; and more. If you are aware of an animal being abused or neglected, please call the Animal Control Office."
+        },
+        {
+            "table_name": "service",
+            "id": "recFvSoslYeXlk32y",
+            "value": "Provides limited transit service to rural areas of Whatcom County. There are no eligibility requirements for using zone service; anyone within the designated area can request a ride. Service is only available to each zone on certain days of the week. Advance reservations are required."
+        },
+        {
+            "table_name": "service",
+            "id": "recGHORP7g5FzUkkd",
+            "value": "Pregnant individuals and parents of infants who have Apple Health/ Medicaid health insurance are eligible to receive: assistance applying for SNAP/ Basic Food benefits, Childcare Subsidy, and PFML benefits; \nnutritionist advice; help accessing medical and behavioral health care; and monthly gift cards for participating in Culturally Responsive Integrated & Strength-Based Parenting (CRISP) classes.\n"
+        },
+        {
+            "table_name": "service",
+            "id": "recf8RBbNAM4zbePg",
+            "value": "Strengthening families and students by helping them with basic needs and linking them to local resources. Resources include basic needs, such as food, clothing and housing; school supplies; energy assistance; GED and ELL classes; family literacy; domestic violence resources; and medicaid enrollment.\n"
+        },
+        {
+            "table_name": "service",
+            "id": "recffhBYsUAQhkiH6",
+            "value": "Services to support refugee and immigrant families and individuals in Washington State. Services include cash, food, and medical benefits; employment and training; naturalization services; health and mental health services; and more."
+        },
+        {
+            "table_name": "service",
+            "id": "recqZSfGo834NSnCD",
+            "value": "Offers free one-to-one tutoring services for adult English language learners. Services include support for English reading, writing, listening, and speaking skills; GED (General Educational Development) test preparation; and basic computer skills."
+        },
+        {
+            "table_name": "service",
+            "id": "recqnEg5892ovOtEH",
+            "value": "Licensed counselors help couples discuss their relationship problems.  These could be issues such as repetitive arguments; feelings of emptiness, isolation, anger or resentment; lack of affection or intimacy; infidelity; or pornography addiction.  "
+        },
+        {
+            "table_name": "service",
+            "id": "recx7kVr85BGxISGX",
+            "value": "Replace a Social Secuirty card if it's lost, stolen, or damaged; request a Social Security number if you don't have one; and report a stolen Social Security number if you suspect it's being used by someone else.\n\n"
+        },
+        {
+            "table_name": "service",
+            "id": "recyW2wz6D9K8k35v",
+            "value": "Serving families, seniors, and those with disabilities. Units are offered based on availability. Households generally pay 30% of their income for rent. Each property has its own application process; visit the Applicant Portals page to begin the application process.\n"
+        },
+        {
+            "table_name": "taxonomy_term",
+            "id": "rec5rrCR3yZNY2CvA",
+            "value": "Care given or supervised by registered nurses. Nurses provide direct care; manage, observe, and evaluate a patient's care; and teach the patient and his or her family caregiver."
+        }
+    ],
+    "single_quotes": [
+        {
+            "table_name": "organization",
+            "id": "recEr5MiqW8WOWmzb",
+            "value": "National Alliance for Children\u2019s Grief"
+        },
+        {
+            "table_name": "organization",
+            "id": "recLEEtTCt8F6jJ8E",
+            "value": "Through service, the School of Dentistry strives to improve the public\u2019s health through outreach programs with attention to minority and underserved communities."
+        },
+        {
+            "table_name": "organization",
+            "id": "recLvJRjWVPeg54aY",
+            "value": "Behavioral healthcare center that serves people of all ages, and offers comprehensive mental health treatment, crisis prevention and intervention, supportive housing, children\u2019s services, community education and more."
+        },
+        {
+            "table_name": "organization",
+            "id": "recOTKr5ctbTisCBM",
+            "value": "A 1,600+ member senior center in Bellingham. Whether you\u2019re interested in art, health & wellness, computer skills, current events, dancing or socializing with friends, you\u2019ll find a wealth of fun-filled activities to educate, stimulate and entertain you at the Center. Membership is open to anyone age 50and over."
+        },
+        {
+            "table_name": "organization",
+            "id": "reccexvgADUkNtP8r",
+            "value": "St. Paul\u2019s Episcopal Church"
+        },
+        {
+            "table_name": "organization",
+            "id": "reckQ4uP9VVsJBJFI",
+            "value": "A program of the Catholic community in Washington state, open to all. Provides support to mothers, fathers, and families as they nurture their children through pregnancy and early childhood. Volunteers at the PREPARES program offer support and activities for families from pregnancy to your child\u2019s fifth birthday."
+        },
+        {
+            "table_name": "organization",
+            "id": "recocuEBU3GuUlF3Y",
+            "value": "A fellowship of people that come together for help because a loved one\u2019s drinking is affecting them. "
+        },
+        {
+            "table_name": "organization",
+            "id": "recsYNxDLV8C5soRH",
+            "value": "Regional children's hospital providing superior patient care, advancing new discoveries and treatments through pediatric research, and serving as the pediatric and adolescent academic medical center for Washington, Alaska, Montana and Idaho \u2013 the largest region of any children\u2019s hospital in the country."
+        },
+        {
+            "table_name": "organization",
+            "id": "recwPly6FfbEW7Q64",
+            "value": "Supports programs to increase awareness of the sacrifices of America\u2019s veterans; promote citizenship education, volunteerism and positive youth programs; and facilitate medical, rehabilitative, educational and employment services and needs for veterans and their families."
+        },
+        {
+            "table_name": "location",
+            "id": "rec2KLZ0feWzsS2IJ",
+            "value": "St Paul\u2019s Episcopal Old Parish Hall"
+        },
+        {
+            "table_name": "service",
+            "id": "rec2OtYSg5Wk7TITz",
+            "value": "A fellowship of people that come together for help because a loved one\u2019s drinking is affecting them. Loved ones can include spouses, siblings, children or grandchildren, parents or grandparents, and friends. Find a meeting close to you using the online search tool."
+        },
+        {
+            "table_name": "service",
+            "id": "rec2l36N1fQB96dWL",
+            "value": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening."
+        },
+        {
+            "table_name": "service",
+            "id": "rec2l36N1fQB96dWL",
+            "value": "Screenings can be completed for any child, birth to age five, whose family or caregiver would like more information about their child\u2019s development. Call, email, or fill out the online form to apply."
+        },
+        {
+            "table_name": "service",
+            "id": "rec2qOLPOyH9hMgu4",
+            "value": "Washington\u2019s Mental Health Referral Service for Children and Teens"
+        },
+        {
+            "table_name": "service",
+            "id": "rec2qOLPOyH9hMgu4",
+            "value": "Connects families with mental health providers who accept new patients, work with your insurance and fit your child\u2019s treatment needs. The Referral Service is accessible to children and teens 17 and under living in Washington state. Teens between the ages of 13 and 17 can also call the Referral Service to find providers for themselves. For interpretation services, call 866-583-1527."
+        },
+        {
+            "table_name": "service",
+            "id": "rec3VBnPrDMDVboIh",
+            "value": "An ambulatory clinic that provides on-site, acute and preventive health care to the Nooksack Indian Tribe and eligible members of federally recognized Tribes. Services include family medicine, pediatric, obstetrics and gynecology, family planning, women\u2019s health, diabetes screening and testing, nutrition education, and community health and nurse health care practices."
+        },
+        {
+            "table_name": "service",
+            "id": "rec3puwmJjq0gDGKQ",
+            "value": "Improves a home\u2019s energy efficiency, durability, indoor air quality and addresses health and safety concerns.  Weatherization services focus on attic, floor and wall insulation, reducing drafts, heating system cleaning and safety inspection and ventilation improvements. Available for both homeowners and renters with landlord permission. "
+        },
+        {
+            "table_name": "service",
+            "id": "rec6JAvIRZ78HD6wH",
+            "value": "Counseling and support services to families with children and youth who may have emotional and/or behavioral challenges. Services include individual therapy, family therapy, and group therapy, case management services to coordinate with schools, Children\u2019s Administration, juvenile justice and other systems that are involved with the particular client."
+        },
+        {
+            "table_name": "service",
+            "id": "rec85UimyZTs0beov",
+            "value": "Investigates the extent to which individuals with disabilities retain their basic rights to make personal and financial decisions and how people in positions to assist them in exercising those rights respect, protect, and facilitate the individual\u2019s expressed interests."
+        },
+        {
+            "table_name": "service",
+            "id": "rec8DBIqcf0GAkk6C",
+            "value": "Washington\u2019s Safe Medication Return lets people dispose of household over-the-counter, and prescription medications (including medications for household pets). Visit the website or call the hotline for information on how to safely dispose of medication."
+        },
+        {
+            "table_name": "service",
+            "id": "rec8DBIqcf0GAkk6C",
+            "value": "https://doh.wa.gov/you-and-your-family/healthy-home/safe-medication-return#:~:text=Washington\u2019s%20Safe%20Medication%20Return%20program%20is%20a%20way,participate%20in%20a%20program%20to%20collect%20covered%20drugs."
+        },
+        {
+            "table_name": "service",
+            "id": "rec8L6tsxtK5iOALs",
+            "value": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening."
+        },
+        {
+            "table_name": "service",
+            "id": "rec94ux0aKRqeC4Zw",
+            "value": "The women\u2019s health specialists at PeaceHealth help manage the body\u2019s changing needs through all of life\u2019s stages. Team members may include gynecologists, obstetricians, nurse practitioners, certified mid-wives, pelvic floor specialists or gynecologic surgeons. Conditions treated include benign (noncancerous) gynecologic conditions, bladder or bowel leakage, gynecological cancer, and pelvic problems. "
+        },
+        {
+            "table_name": "service",
+            "id": "recBEJKNupo0sBupW",
+            "value": "Individual, couples, and family counseling available. Individual counseling sessions are designed to address a client\u2019s specific recovery and/or mental health needs. Sessions may focus on trauma, sadness, grief, stress, loneliness and other factors leading to a cycle of addiction. Each patient is encouraged to have some couples or family counseling as well. \n\nFamily therapy can be done with or without the primary client present."
+        },
+        {
+            "table_name": "service",
+            "id": "recCKYqBxp3Kl0yLk",
+            "value": "Provides quality educational opportunities from early childhood through life, in accordance with the Tribe\u2019s need for cultural and economic well-being in keeping with the wide diversity of the Tribe as distinct cultural and governmental entities. Services include education grants, student support for struggling students, and a Tribal Education Liaison to assist Nooksack families communicate with local school districts. "
+        },
+        {
+            "table_name": "service",
+            "id": "recDWZHzvL1GZJ6HI",
+            "value": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening."
+        },
+        {
+            "table_name": "service",
+            "id": "recDjal9Q8Npc6PcL",
+            "value": "Need help with technology questions or with using the Library\u2019s electronic resources? Help is available by phone, by email, in person, or with one-on-one assistance during a Tech Basics Coaching session. Coaching sessions take place every Wednesday afternoon at the Central Library. Check the event calendar for upcoming sessions, and call to register."
+        },
+        {
+            "table_name": "service",
+            "id": "recFhWhlJBjg5dkPc",
+            "value": "A Medicare-approved plan from a private company that offers an alternative to Original Medicare for your health and drug coverage. These \u201cbundled\u201d plans include Part A, Part B, and usually Part D. Plans may have lower out-of-pocket costs than Original Medicare, and may offer some extra benefits that Original Medicare doesn\u2019t cover, like vision, hearing, and dental services."
+        },
+        {
+            "table_name": "service",
+            "id": "recKclZGHPGaapYDx",
+            "value": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening."
+        },
+        {
+            "table_name": "service",
+            "id": "recPNE1kFCclHzNaD",
+            "value": "Women\u2019s health services to meet specific needs such as disease screenings, mental health treatment, recovery from military sexual trauma, maternity care and female-specific medical equipment."
+        },
+        {
+            "table_name": "service",
+            "id": "recQOJBQjXeZ266Ug",
+            "value": "1 in 3 pets will get lost in their lifetime, and this permanent form of identification could be your pet\u2019s ticket home. WHS offers this lifesaving service for just $30.00. No appointment necessary."
+        },
+        {
+            "table_name": "service",
+            "id": "recREyhbotJzRHu2R",
+            "value": "The Domestic Violence and Sexual Assault Services (DVSAS) Partnership Program provides case management and housing resource access to one of DVSAS\u2019 two safe shelters, and to clients in emergency motel stays paid for by DVSAS. (Referral made by DVSAS)."
+        },
+        {
+            "table_name": "service",
+            "id": "recVRBccDKpI5xXjb",
+            "value": "Online registration opens every Friday for the following Friday\u2019s outing. Available on a first-come, first-served basis. "
+        },
+        {
+            "table_name": "service",
+            "id": "recWgf4s0ABeJeC6n",
+            "value": "Provides an access point for community members to make a complaint due to concerns about the City of Bellingham\u2019s services, or their experience interacting with or within the City of Bellingham. "
+        },
+        {
+            "table_name": "service",
+            "id": "recY8KMkhZM5YNo2N",
+            "value": "Complete the online application if you are interested in participating in screening activities for the purpose of locating, identifying and evaluating your child\u2019s  potential disabilities and need of special education services."
+        },
+        {
+            "table_name": "service",
+            "id": "recZXVSo5blOC2pSE",
+            "value": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening."
+        },
+        {
+            "table_name": "service",
+            "id": "recZXVSo5blOC2pSE",
+            "value": "Screenings can be completed for any child, birth to age five, whose family or caregiver would like more information about their child\u2019s development. "
+        },
+        {
+            "table_name": "service",
+            "id": "recdlEWpVbIeLo7y7",
+            "value": "A full range of primary medical services, including well-child exams, immunizations, annual exams, women\u2019s health care, prescriptions, diagnosis and treatment of acute illness, urgent care, on-site testing and laboratory services, behavioral health care, care of chronic illnesses, reproductive health and contraception, sexually-transmitted disease testing and treatment, and care coordination."
+        },
+        {
+            "table_name": "service",
+            "id": "recfZIsdHPuf3eCf1",
+            "value": "Provides children\u2019s mental health services to Medicaid eligible children and their families. After an initial assessment and determination of need for ongoing help, core mental health services available include individual and/or family counseling/therapy, medication evaluation/management and coordination with primary care physicians, and case management."
+        },
+        {
+            "table_name": "service",
+            "id": "recgfhWdV0ZamHrTA",
+            "value": "A free Parents\u2019 Day Out/respite program where kids with all types of special needs have fun while their caregivers get a break. Participants and their siblings have opportunities to make new friends, play games, do crafts, hear children\u2019s stories, enjoy music, and more, while their parents get a break from their ongoing care-giving responsibilities. Call for schedule."
+        },
+        {
+            "table_name": "service",
+            "id": "reci1XqAnTqQDPVus",
+            "value": "A part of the Al-Anon Family Groups\u2019 fellowship for younger members whose lives have been affected by someone else\u2019s drinking. At Alateen Meetings, younger members meet other Alateens with similar situations. Alateen is not a religious program and there are no fees or dues to belong to it. Find a meeting close to you using the online search tool."
+        },
+        {
+            "table_name": "service",
+            "id": "recimuyWH9cSO6ohn",
+            "value": "A place to shop and to donate quality new and used women\u2019s clothing. Clothing vouchers provided for women in need. Back to Work Vouchers also available, good for 3 fully styled outfits for interviews or work. Call or visit the YWCA office to inquire about vouchers for yourself or for your organization. "
+        },
+        {
+            "table_name": "service",
+            "id": "recjZ7UYj1JuLOJyr",
+            "value": "Serves families with children from birth to three years old who have developmental delays or disabilities in order to maximize each child\u2019s development."
+        },
+        {
+            "table_name": "service",
+            "id": "recmICYkT4ILOc3PU",
+            "value": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening."
+        },
+        {
+            "table_name": "service",
+            "id": "recnS39HhvlCJ3YM8",
+            "value": "Tl\u2019ils Ta\u2019\u00e1\u2019altha Victims of Crime Program"
+        },
+        {
+            "table_name": "service",
+            "id": "recoks2DPAZqnzamd",
+            "value": "Compass Health Children\u2019s Intensive Outpatient Treatment "
+        },
+        {
+            "table_name": "service",
+            "id": "rectzkDOdSKEvw0EZ",
+            "value": "In six hours this free class will cover the homebuying process from the very beginning to move-in. Upon completion of the class participants will earn a certificate from the Washington State Housing Finance Commission (WSHFC). The certificate allows you to take advantage of special loan products and is a requirement for any of the WSHFC\u2019s affordable loan products."
+        },
+        {
+            "table_name": "service",
+            "id": "recu0diW5LIo7gDEJ",
+            "value": "The Housing Choice Voucher program (Section 8) is the federal government\u2019s major program for assisting very low-income families, the elderly, and the disabled to afford decent, safe, and sanitary housing in the private market. Program participants generally pay no more than 40% of their income for rent and utilities."
+        },
+        {
+            "table_name": "service",
+            "id": "recuZvapucSt6HyAu",
+            "value": "Serves families with children ages birth to five to ensure access to quality early childhood services for families in the Nooksack Valley School District. The focus of the birth to five programs is to support each and every child\u2019s individual development, ensuring school readiness when entering kindergarten."
+        },
+        {
+            "table_name": "service",
+            "id": "recvFBMTtvHrCBds7",
+            "value": "A program focused on improving conditions, treatment, services, and reentry for people with disabilities who are incarcerated in our state\u2019s jails and prisons, as well as those who reside at the Special Commitment Center. AVID works to ensure that those who are reentering the community have their voices heard and their rights protected."
+        },
+        {
+            "table_name": "service",
+            "id": "recvgTMMlYJE8L5nU",
+            "value": "Due to reduced staffing levels and resources, appointments are booked out 3-4 months depending on the animal\u2019s breed, sex, and weight."
+        },
+        {
+            "table_name": "service",
+            "id": "recw5qM0ZtLhAITZS",
+            "value": "Project designed to enhance the neighborhood feel, build a community-partnered response to homelessness, and mitigate potential challenges arising from Base Camp\u2019s downtown location. Services include a Downtown Bellingham Liaison available to support downtown residents and businesses with issues related to homelessness, an Incident/Concern Matrix tool to help business in their interactions with neighbors experiencing homelessness, dedicated litter patrol, bi-weekly Neighbor Advisory forum, de-escalation training, and more. "
+        },
+        {
+            "table_name": "service",
+            "id": "recwGJ8tUXc9cqRCj",
+            "value": "Serves families with children from birth to three years old who have developmental delays or disabilities in order to maximize each child\u2019s development."
+        },
+        {
+            "table_name": "service",
+            "id": "recwGpJ0NvTJlEiqV",
+            "value": "Whatcom Humane Society cares for thousands of animals each year, and couldn\u2019t do it without the help of dedicated volunteers. If you are interested in becoming a WHS volunteer, please read through the Volunteer Requirements and How to Get Started steps online."
+        },
+        {
+            "table_name": "service",
+            "id": "recwwDAPvZfyoH2xD",
+            "value": "Provides an array of advocacy and case management services to Nooksack children and families involving child welfare, domestic violence, sexual assault, and elder abuse. Programs include Indian Child Welfare Program and Independent Living, Extended Foster Care, Tl\u2019ils Ta\u2019\u00e1\u2019altha Program, Men and Boys Outreach and Advocacy Program, Supervised Visitation and Safe Exchange Program, and Child Protection Team. "
+        },
+        {
+            "table_name": "service",
+            "id": "recxSmKwAdIUm60i5",
+            "value": "PeaceHealth\u2019s family medicine team is here for you through all life stages. The primary care doctor in a family practice is trained in both pediatric and adult medicine. This makes it perfect for families who want care conveniently delivered in the same clinic. Patients can see the same doctor for care from childhood through adulthood."
+        },
+        {
+            "table_name": "service",
+            "id": "recyvJtspiCygoCes",
+            "value": "Assists in meeting the food needs for low-income elementary school students in the Mount Baker School District over Winter and Spring breaks. Students who participate in the program are provided with a supply of kid-friendly, easy-to-prepare snacks and meals. For more information, or to get your child involved in this program, please contact your school\u2019s Family Resource Coordinator."
+        },
+        {
+            "table_name": "service",
+            "id": "recyvJtspiCygoCes",
+            "value": "For more information, or to get your child involved in this program, please contact your school\u2019s Family Resource Coordinator."
+        },
+        {
+            "table_name": "service",
+            "id": "reczOIBcvt2lKdC7C",
+            "value": "- Contact to arrange a site visit.\n- Read Policies & Procedures manual.\n- After site visit, submit registration fee & form.\n- Complete & submit Participant Application & Health History and Physician\u2019s Release."
+        },
+        {
+            "table_name": "service",
+            "id": "a891c8b0eafe91a8dfb4baea70195bc0",
+            "source_id": "recjhKxInSNqp5qMR",
+            "value": "Supports pregnant and parenting families who find themselves lacking a healthy support network. Families can access mentors and holistic wrap-around services from the time of awareness of pregnancy to the child\u2019s fifth birthday. "
+        },
+        {
+            "table_name": "service",
+            "id": "8b5c71de2629d3845abd678aa83ac9b1",
+            "source_id": "recjhKxInSNqp5qMR",
+            "value": "Supports pregnant and parenting families who find themselves lacking a healthy support network. Families can access mentors and holistic wrap-around services from the time of awareness of pregnancy to the child\u2019s fifth birthday. "
+        }
+    ]
+}

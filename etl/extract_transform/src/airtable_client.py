@@ -77,7 +77,7 @@ def add_required_if_missing(core_dict, required_keys):
 
 def build_duplicate_record(record, id_to_hash, key):
     new_record = record.copy()
-    new_record['source_id'] = record['id']       #Talk to Skyler to add to schema
+    new_record['source_id'] = record['id']
     new_record[key] = [id_to_hash]
     new_record['id'] = hashlib.md5(((record['id'] + id_to_hash)).encode('utf-8')).hexdigest()
     return new_record
@@ -93,7 +93,8 @@ def duplicate_record_if_multiple_foreign_keys(core_dict, column_names):
                     [core_dict.append(record) for record in new_records]
                     records_to_remove.append(record)
     for record in records_to_remove:
-        core_dict.remove(record)
+        if record in core_dict:
+            core_dict.remove(record)
     return core_dict
 
 def list_to_string(core_dict, column_name):

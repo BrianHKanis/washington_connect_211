@@ -16,5 +16,5 @@ def complete_table():
     phones = add_required_if_missing(phones_with_deletes, required_keys)
     phones_with_duplicates = duplicate_record_if_multiple_foreign_keys(phones, foreign_keys_to_duplicate)
     phones_with_strings = single_string_value_from_list(phones_with_duplicates, columns_with_lists)
-    phones_with_correct_data_types = string_to_integer(phones_with_strings, 'extension')
-    return phones_with_correct_data_types
+    # phones_with_correct_data_types = string_to_integer(phones_with_strings, 'extension')
+    return phones_with_strings

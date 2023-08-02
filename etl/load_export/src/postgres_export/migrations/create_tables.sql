@@ -1,5 +1,3 @@
--- Create table for Organization
-DROP TABLE IF EXISTS organization;
 CREATE TABLE organization (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -19,8 +17,6 @@ CREATE TABLE organization (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for OrganizationIdentifier
-DROP TABLE IF EXISTS organization_identifier;
 CREATE TABLE organization_identifier (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -32,21 +28,17 @@ CREATE TABLE organization_identifier (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Program
-DROP TABLE IF EXISTS program;
 CREATE TABLE program (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
   organization_id VARCHAR(255),
   name VARCHAR(255),
   alternate_name VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   source_id VARCHAR(255),
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Service
-DROP TABLE IF EXISTS service;
 CREATE TABLE service (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -76,8 +68,6 @@ CREATE TABLE service (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Attribute
-DROP TABLE IF EXISTS attribute;
 CREATE TABLE attribute (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -90,20 +80,16 @@ CREATE TABLE attribute (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for ServiceAtLocation
-DROP TABLE IF EXISTS service_at_location;
 CREATE TABLE service_at_location (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
   service_id VARCHAR(255),
   location_id VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   source_id VARCHAR(255),
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Location
-DROP TABLE IF EXISTS location;
 CREATE TABLE location (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -112,7 +98,7 @@ CREATE TABLE location (
   organization_id VARCHAR(255),
   name VARCHAR(255),
   alternate_name VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   transportation VARCHAR(255),
   latitude FLOAT,
   longitude FLOAT,
@@ -122,8 +108,6 @@ CREATE TABLE location (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Phone
-DROP TABLE IF EXISTS phone;
 CREATE TABLE phone (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -133,15 +117,13 @@ CREATE TABLE phone (
   contact_id VARCHAR(255),
   service_at_location_id VARCHAR(255),
   number VARCHAR(255),
-  extension BIGINT,
+  extension VARCHAR,
   type VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   source_id VARCHAR(255),
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Contact
-DROP TABLE IF EXISTS contact;
 CREATE TABLE contact (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -157,8 +139,6 @@ CREATE TABLE contact (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Address
-DROP TABLE IF EXISTS address;
 CREATE TABLE address (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -176,8 +156,6 @@ CREATE TABLE address (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Schedule
-DROP TABLE IF EXISTS schedule;
 CREATE TABLE schedule (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -192,12 +170,12 @@ CREATE TABLE schedule (
   count BIGINT,
   wkst VARCHAR(255),
   freq VARCHAR(255),
-  interval BIGINT,
+  interval VARCHAR(255),
   byday VARCHAR(255),
   byweekno VARCHAR(255),
   bymonthday VARCHAR(255),
   byyearday VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   opens_at VARCHAR(255),
   closes_at VARCHAR(255),
   schedule_link VARCHAR(255),
@@ -207,8 +185,6 @@ CREATE TABLE schedule (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Funding
-DROP TABLE IF EXISTS funding;
 CREATE TABLE funding (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -219,14 +195,12 @@ CREATE TABLE funding (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for ServiceArea
-DROP TABLE IF EXISTS service_area;
 CREATE TABLE service_area (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
   service_id VARCHAR(255),
   name VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   extent VARCHAR(255),
   extent_type VARCHAR(255),
   uri VARCHAR(255),
@@ -234,8 +208,6 @@ CREATE TABLE service_area (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for RequiredDocument
-DROP TABLE IF EXISTS required_document;
 CREATE TABLE required_document (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -246,8 +218,6 @@ CREATE TABLE required_document (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Language
-DROP TABLE IF EXISTS language;
 CREATE TABLE language (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -261,21 +231,17 @@ CREATE TABLE language (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Accessibility
-DROP TABLE IF EXISTS accessibility;
 CREATE TABLE accessibility (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
   location_id VARCHAR(255),
-  description VARCHAR(255),
+  description VARCHAR,
   details VARCHAR(255),
   url VARCHAR(255),
   source_id VARCHAR(255),
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for CostOption
-DROP TABLE IF EXISTS cost_option;
 CREATE TABLE cost_option (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -285,13 +251,11 @@ CREATE TABLE cost_option (
   option VARCHAR(255),
   currency VARCHAR(255),
   amount FLOAT,
-  amount_description VARCHAR(255),
+  amount_description VARCHAR,
   source_id VARCHAR(255),
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Taxonomy
-DROP TABLE IF EXISTS taxonomy;
 CREATE TABLE taxonomy (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -303,8 +267,6 @@ CREATE TABLE taxonomy (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for TaxonomyTerm
-DROP TABLE IF EXISTS taxonomy_term;
 CREATE TABLE taxonomy_term (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -320,8 +282,6 @@ CREATE TABLE taxonomy_term (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for Metadata
-DROP TABLE IF EXISTS metadata;
 CREATE TABLE metadata (
   dpmgid VARCHAR(255),
   id VARCHAR(255),
@@ -337,8 +297,6 @@ CREATE TABLE metadata (
   PRIMARY KEY (dpmgid, id)
 );
 
--- Create table for MetaTableDescription
-DROP TABLE IF EXISTS meta_table_description;
 CREATE TABLE meta_table_description (
   dpmgid VARCHAR(255),
   id VARCHAR(255),

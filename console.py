@@ -53,10 +53,10 @@ print()
 merged = merge_endpoints(all_tables, topic_names)
 
 
-with open("mydata.json", "w") as final:
+with open("whatcom.json", "w") as final:
    json.dump(merged, final, indent=4)
 
-# with open('mydata.json', 'r') as f: #For quicker worflow rather than importing
+# with open('whatcom.json', 'r') as f: #For quicker worflow rather than importing
 #     table_data = json.load(f)
 
 # print('Endpoints paired with coresponding table')
