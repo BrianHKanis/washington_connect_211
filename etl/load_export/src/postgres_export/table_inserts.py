@@ -23,10 +23,14 @@ conn = psycopg2.connect(dbname=DB_NAME, user=DB_USER,
                         host=DB_HOST,
                         port=DB_PORT)
 
+# To see records locally before exporting to DB
+clean_data = {'organization': [], 'location': [], 'service': [], 'service_at_location': [],
+        'contact': [], 'schedule': [], 'phone': [], 'taxonomy': [], 'taxonomy_term': []}
+
 def clean_record(record):
     for k, v in record.items():
         if type(v) == str:
-            #Necessary for database insertion
+            #Necessary for database insertion with normal f'string
             if '"' in v:
                 record[k] = v.replace('"', "''")
             if "'" in v:
@@ -45,27 +49,19 @@ def clean_record(record):
                 record[k] = v.replace('\n', ' ')
     return record
 
-def insert_into(table_name, conn):
-    cursor = conn.cursor()
-    columns = []
+def clean_table(table_name):
     records = table_data[table_name]
     for record in records:
-        columns = list(record.keys())
-        columns_string = ', '.join(columns)
-        cleaned_record = clean_record(record)
-        values = list(cleaned_record.values())
-        values_string = str(values).replace('[', '').replace(']', '').replace('"', "'")
-        query = f'INSERT INTO {table_name} ({columns_string}) VALUES ({values_string})'
-        cursor.execute(query)
-        conn.commit()
-    return print(table_name, 'done')
+        clean_record(record)
+        clean_data[table_name].append(record)
 
-def insert_all(topic_names, conn):
+def clean_all(topic_names):
     for topic_name in topic_names:
-        topic_name
-        insert_into(topic_name, conn)
-    print('Done All')
+        clean_table(topic_name)
 
+def export_clean(clean_data):
+    with open("whatcom_clean.json", "w") as final:
+        json.dump(clean_data, final, indent=4)
 
 ##INSERT ALL BULK
 def insert_bulk(conn, table_name, table_data=table_data):
@@ -85,25 +81,31 @@ def insert_all_bulk(topic_names, conn, table_data=table_data):
     print('Done All')
 
 
-# To see records locally before exporting to DB
-clean_data = {'organization': [], 'location': [], 'service': [], 'service_at_location': [],
-        'contact': [], 'schedule': [], 'phone': [], 'taxonomy': [], 'taxonomy_term': []}
-def clean_table(table_name):
-    records = table_data[table_name]
-    for record in records:
-        clean_record(record)
-        clean_data[table_name].append(record)
-
-def clean_all(topic_names):
-    for topic_name in topic_names:
-        clean_table(topic_name)
-
-def export_clean(clean_data):
-    with open("whatcom_clean.json", "w") as final:
-        json.dump(clean_data, final, indent=4)
 
 
 
+
+
+# def insert_into(table_name, conn):
+#     cursor = conn.cursor()
+#     columns = []
+#     records = table_data[table_name]
+#     for record in records:
+#         columns = list(record.keys())
+#         columns_string = ', '.join(columns)
+#         cleaned_record = clean_record(record)
+#         values = list(cleaned_record.values())
+#         values_string = str(values).replace('[', '').replace(']', '').replace('"', "'")
+#         query = f'INSERT INTO {table_name} ({columns_string}) VALUES ({values_string})'
+#         cursor.execute(query)
+#         conn.commit()
+#     return print(table_name, 'done')
+
+# def insert_all(topic_names, conn):
+#     for topic_name in topic_names:
+#         topic_name
+#         insert_into(topic_name, conn)
+#     print('Done All')
 
 
 # def make_insert_into(table_name):
