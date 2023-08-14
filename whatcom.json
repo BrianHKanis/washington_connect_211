@@ -9,16 +9,16 @@
         },
         {
             "name": "Northwest Therapeutic Riding Center",
-            "email": "nwtrc@premier1.net ",
             "description": "Provides high quality, safe and fun adaptive horsemanship and riding lessons. Participants range in age from 4-74 and include individuals with physical, cognitive, emotional, behavioral and sensory disabilities.\u00a0",
+            "email": "nwtrc@premier1.net ",
             "id": "rec1FfYg3cqbowgNu",
             "website": "www.nwtrc.org",
             "dpmgid": "69"
         },
         {
             "name": "DCYF (Washington State Department of Children, Youth, and Families)",
-            "description": "The lead agency for state-funded services that support children and families to build resilience and health, and to improve educational outcomes. ",
             "alternate_name": "CPS",
+            "description": "The lead agency for state-funded services that support children and families to build resilience and health, and to improve educational outcomes. ",
             "id": "rec1OvXuzV7MUMLLW",
             "website": "https://www.dcyf.wa.gov",
             "dpmgid": "69"
@@ -31,16 +31,16 @@
         },
         {
             "name": "Trevor Project",
-            "email": "info@thetrevorproject.org",
             "description": "Suicide prevention and mental health organization for LGBTQ young people.",
+            "email": "info@thetrevorproject.org",
             "id": "rec282lP1JZMUo7Vo",
             "website": "https://www.thetrevorproject.org/",
             "dpmgid": "69"
         },
         {
             "name": "Max Higbee Center",
-            "email": "admin@maxhigbeecenter.org\n",
             "description": "Supports and empowers teens and adults with developmental disabilities \nto build community, friendships, happiness, life skills and health through recreation.",
+            "email": "admin@maxhigbeecenter.org\n",
             "id": "rec2bDOEa8kwKahM2",
             "website": "http://www.maxhigbee.org/",
             "dpmgid": "69"
@@ -61,16 +61,16 @@
         },
         {
             "name": "Bellingham Central Lions Club",
-            "email": "info@bellinghamcentrallions.org",
             "description": "Volunteer organization providing financial assistance to the local community, particularly related to sight and hearing.",
+            "email": "info@bellinghamcentrallions.org",
             "id": "rec3OYZxZ2q2GrfFe",
             "website": "https://www.bellinghamcentrallions.org",
             "dpmgid": "69"
         },
         {
             "name": "LGBT National Help Center",
-            "email": "help@LGBThotline.org",
             "description": "Offers support to those seeking affirmation and acceptance, questions or concerns on sexuality and gender identity, resources and information.",
+            "email": "help@LGBThotline.org",
             "id": "rec3Z4JmNoxJLla35",
             "website": "https://www.lgbthotline.org/",
             "dpmgid": "69"
@@ -84,8 +84,8 @@
         },
         {
             "name": "Bellingham Food Bank",
-            "email": "info@bellinghamfoodbank.org\n",
             "description": "Provides free groceries to anyone in Bellingham. Up to two visits per week allowed per household. Pick up for up to two households per visit.",
+            "email": "info@bellinghamfoodbank.org\n",
             "id": "rec47JDzJHPJqdaTK",
             "website": "http://www.bellinghamfoodbank.org/",
             "dpmgid": "69"
@@ -99,8 +99,8 @@
         },
         {
             "name": "Rebound of Whatcom County",
-            "email": "info@reboundfamilies.org",
             "description": "Provides services that meet the needs of children and families dealing with poverty, domestic violence, homelessness and abuse.",
+            "email": "info@reboundfamilies.org",
             "id": "rec4P3bWLzFWQv3ua",
             "website": "http://reboundfamilies.org/",
             "dpmgid": "69"
@@ -114,42 +114,42 @@
         },
         {
             "name": "Parent Trust for Washington Children",
-            "email": "information@parenttrust.org",
             "description": "A statewide resources that equips parents and caregivers to raise safe, healthy and strong children.",
+            "email": "information@parenttrust.org",
             "id": "rec4VEGc8in2PdRID",
             "website": "https://www.parenttrust.org",
             "dpmgid": "69"
         },
         {
             "name": "SHIBA",
-            "email": "SHIBAS@OIC.WA.Gov",
-            "description": "A free, unbiased and confidential service of the Washington state Office of the Insurance Commissioner, SHIBA volunteers help people of all ages and backgrounds with their Medicare questions and options.",
             "alternate_name": "Statewide Health Insurance Benefits Advisors",
+            "description": "A free, unbiased and confidential service of the Washington state Office of the Insurance Commissioner, SHIBA volunteers help people of all ages and backgrounds with their Medicare questions and options.",
+            "email": "SHIBAS@OIC.WA.Gov",
             "id": "rec4jMEwEQJj5XWGc",
             "website": "https://www.insurance.wa.gov/statewide-health-insurance-benefits-advisors-shiba",
             "dpmgid": "69"
         },
         {
             "name": "Blaine Food Bank",
-            "email": "blainefood@hotmail.com",
             "description": "Provides food to Blaine, Custer, Birch Bay, and Semiahmoo residents. Households can visit up to twice per week.",
+            "email": "blainefood@hotmail.com",
             "id": "rec5T1hKkiBje5h2Q",
             "website": "www.blainefoodbank.org",
             "dpmgid": "69"
         },
         {
             "name": "Washington Women In Need",
-            "description": "Empowers women in Washington State to achieve economic stability through higher education and living wage careers.",
             "alternate_name": "WWIN",
+            "description": "Empowers women in Washington State to achieve economic stability through higher education and living wage careers.",
             "id": "rec5p45tCzeqJpNLm",
             "website": "http://www.wwin.org/",
             "dpmgid": "69"
         },
         {
             "name": "City of Bellingham",
-            "email": "info@cob.org",
-            "description": "Local government for Bellingham, WA.",
             "alternate_name": "COB",
+            "description": "Local government for Bellingham, WA.",
+            "email": "info@cob.org",
             "id": "rec68UXj6umn1aDXc",
             "website": "http://www.cob.org",
             "dpmgid": "69"
@@ -163,9 +163,9 @@
         },
         {
             "name": "Hearing, Speech and Deaf Center (HSDC)",
-            "email": "bellingham@hsdc.org",
-            "description": "A comprehensive array of programs that foster effective communication for individuals and families affected by hearing or speech differences. ",
             "alternate_name": "HSDC",
+            "description": "A comprehensive array of programs that foster effective communication for individuals and families affected by hearing or speech differences. ",
+            "email": "bellingham@hsdc.org",
             "id": "rec6Lsjtx7SuD4tFY",
             "website": "http://www.hsdc.org/",
             "dpmgid": "69"
@@ -186,16 +186,16 @@
         },
         {
             "name": "Kaleidoscope Play and Learn Group",
-            "email": "tbaas@blainesd.org",
             "description": "Gathering spaces for caregivers, parents, and young children to meet with others in their community and learn about fostering healthy child development and school readiness. ",
+            "email": "tbaas@blainesd.org",
             "id": "rec7ZQS6lV92IgG6p",
             "website": "https://www.brightspark.org/kaleidoscope-play-and-learn/",
             "dpmgid": "69"
         },
         {
             "name": "American Red Cross Northwest Region",
-            "description": "Brings together local volunteers to care for their neighbors, trains hundreds of thousands of people each year in life-saving skills, and responds to local disasters.",
             "alternate_name": "Red Cross",
+            "description": "Brings together local volunteers to care for their neighbors, trains hundreds of thousands of people each year in life-saving skills, and responds to local disasters.",
             "id": "rec7mTv2QIygynwyU",
             "website": "https://www.redcross.org/local/washington.html",
             "dpmgid": "69"
@@ -209,33 +209,33 @@
         },
         {
             "name": "Whatcom County Library System",
-            "description": "Library system for Whatcom County with branches in Blaine, Deming, Everson, Ferndale, Lummi Island, Lynden, Maple Falls, Point Roberts, South Whatcom, and Sumas. ",
             "alternate_name": "WCLS",
+            "description": "Library system for Whatcom County with branches in Blaine, Deming, Everson, Ferndale, Lummi Island, Lynden, Maple Falls, Point Roberts, South Whatcom, and Sumas. ",
             "id": "rec994MkJgmx9DC87",
             "website": "http://www.wcls.org",
             "dpmgid": "69"
         },
         {
             "name": "IRIS",
-            "email": "info@irisnw.org",
-            "description": "Responds to the urgent and unmet needs of immigrants in our communities in Whatcom, Skagit and Snohomish counties in an inclusive and comprehensive manner. IRIS connects immigrants with needed resources, and provides funding for items and services that are not accessible to this marginalized population.",
             "alternate_name": "Immigrant Resources and Immediate Support",
+            "description": "Responds to the urgent and unmet needs of immigrants in our communities in Whatcom, Skagit and Snohomish counties in an inclusive and comprehensive manner. IRIS connects immigrants with needed resources, and provides funding for items and services that are not accessible to this marginalized population.",
+            "email": "info@irisnw.org",
             "id": "rec9HNmw9uVkPipWq",
             "website": "https://irisnw.org",
             "dpmgid": "69"
         },
         {
             "name": "Whatcom County Alcoholics Anonymous (AA)",
-            "description": "Alcoholics Anonymous is a fellowship of people who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism.",
             "alternate_name": "AA",
+            "description": "Alcoholics Anonymous is a fellowship of people who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism.",
             "id": "rec9xw5yCbW0WZNN7",
             "website": "http://www.whatcomaa.org/",
             "dpmgid": "69"
         },
         {
             "name": "Washington State Hands and Voices",
-            "email": "info@wahandsandvoices.org",
             "description": "A parent-driven, non-profit organization, providing families with resources, networks, and information needed to improve communication and educational outcomes for their children who are deaf or hard of hearing.",
+            "email": "info@wahandsandvoices.org",
             "id": "recA7nuuKHUpWxoM6",
             "website": "https://wahandsandvoices.org",
             "dpmgid": "69"
@@ -249,32 +249,32 @@
         },
         {
             "name": "The EMBERcenter",
-            "email": "embercenter@gmail.com",
             "description": "One-on-one parenting support with a peer provider of your choice. Join sessions via text, phone, or video chat as often as you want. Each session is about 30 minutes. Peer support providers are available in English and Spanish.",
+            "email": "embercenter@gmail.com",
             "id": "recAQM8JEMY7XTNmy",
             "website": "https://www.embercenter.com/",
             "dpmgid": "69"
         },
         {
             "name": "Village Circle Group Peer Support",
-            "email": "thevillagecirclebellingham@gmail.com",
             "description": "Group Peer Support services including virtual and in-person support group meetings for any birthing person and/or anyone identifying as a mother. ",
+            "email": "thevillagecirclebellingham@gmail.com",
             "id": "recB2M8bWgPAkv0R6",
             "website": "www.villagecirclebellingham.com/",
             "dpmgid": "69"
         },
         {
             "name": "Bellingham Community Meal",
-            "email": "volunteerbcmp@gmail.com",
             "description": "Provides a hearty meal for the community the last Saturday of the month, January through October.",
+            "email": "volunteerbcmp@gmail.com",
             "id": "recBK5WKpMDUGZKgg",
             "website": "https://bellinghamcommunitymeal.square.site",
             "dpmgid": "69"
         },
         {
             "name": "Dominic's Closet",
-            "email": "dominics.closet.nonprofit@gmail.com",
             "description": "A non-profit charity to help get medical supplies to those in need.",
+            "email": "dominics.closet.nonprofit@gmail.com",
             "id": "recBfTO9VIyIMZZ0U",
             "website": "https://www.facebook.com/dominics.closet.nonprofit",
             "dpmgid": "69"
@@ -288,8 +288,8 @@
         },
         {
             "name": "Mending Babyloss ",
-            "email": "mendingbabyloss@gmail.com",
             "description": "A non-denominational support group for grieving parents in Whatcom County.",
+            "email": "mendingbabyloss@gmail.com",
             "id": "recCVAMk0QaUgl7n1",
             "website": "mendingbabyloss.org/",
             "dpmgid": "69"
@@ -317,42 +317,42 @@
         },
         {
             "name": "Whatcom Perinatal Mental Health Taskforce",
-            "email": "info@whatcomperinatal.org",
             "description": "Nonprofit organization that connects with parents, caregivers, and professionals to raise community awareness about becoming a new parent, what perinatal mood and anxiety disorders (PMADs) are, and connect parents with resources, healthcare providers, and peer support groups. ",
+            "email": "info@whatcomperinatal.org",
             "id": "recDhBN6qb13RXRWE",
             "website": "https://whatcomperinatal.org/",
             "dpmgid": "69"
         },
         {
             "name": "FACES Northwest",
-            "email": "facesassistant@gmail.com",
-            "description": "Therapeutic recreational day camp for children and young adults with autism.",
             "alternate_name": "Families for Autism Care, Education, and Support",
+            "description": "Therapeutic recreational day camp for children and young adults with autism.",
+            "email": "facesassistant@gmail.com",
             "id": "recEamwWyq8xEFYb9",
             "website": "http://facesnorthwest.com/wp/",
             "dpmgid": "69"
         },
         {
             "name": "Kids Korner Learning Center ",
-            "email": "kdskrnr1903@yahoo.com",
             "description": "Fulltime childcare for children ages 1 to 5 years, provides Head Start services, toddler and preschool curriculum, meals included, accepts Working Connections Child Care (DSHS).    ",
+            "email": "kdskrnr1903@yahoo.com",
             "id": "recEoZscI9HHjgXwr",
             "website": "kidskornerlearningcenter.net/home",
             "dpmgid": "69"
         },
         {
             "name": "National Alliance for Children\u2019s Grief",
-            "email": "info@childrengrieve.org",
-            "description": "A nonprofit organization that raises awareness about the needs of children and teens who are grieving a death, and provides education and resources for anyone who supports them. ",
             "alternate_name": "NACG",
+            "description": "A nonprofit organization that raises awareness about the needs of children and teens who are grieving a death, and provides education and resources for anyone who supports them. ",
+            "email": "info@childrengrieve.org",
             "id": "recEr5MiqW8WOWmzb",
             "website": "https://nacg.org",
             "dpmgid": "69"
         },
         {
             "name": "Washington State Department of Labor and Industries (L&I)",
-            "description": "A state agency dedicated to the safety, health, and security of Washington workers. Helps employers meet safety and health standards, inspects workplaces when alerted to hazards, and administers the state's workers' compensation system",
             "alternate_name": "L&I",
+            "description": "A state agency dedicated to the safety, health, and security of Washington workers. Helps employers meet safety and health standards, inspects workplaces when alerted to hazards, and administers the state's workers' compensation system",
             "id": "recEzPeS7xAX8un2Y",
             "website": "http://www.lni.wa.gov/",
             "dpmgid": "69"
@@ -366,25 +366,25 @@
         },
         {
             "name": "Washington Autism Alliance",
-            "email": "office@washingtonautismadvocacy.org",
             "description": "Expands access to healthcare, education and services for people with autism spectrum disorders and related intellectual and developmental disabilities in Washington State.",
+            "email": "office@washingtonautismadvocacy.org",
             "id": "recF3EsD8udj7kQ3S",
             "website": "washingtonautismalliance.org/",
             "dpmgid": "69"
         },
         {
             "name": "Clarity Mental Health and Recovery",
-            "email": "info@claritymhr.com",
-            "description": "Person-centered counseling for addiction, recovery, and mental health. (Formerly Belair Clinic)",
             "alternate_name": "Belair Clinic",
+            "description": "Person-centered counseling for addiction, recovery, and mental health. (Formerly Belair Clinic)",
+            "email": "info@claritymhr.com",
             "id": "recFEWIhFsd4KrZfz",
             "website": "https://www.claritymhr.com",
             "dpmgid": "69"
         },
         {
             "name": "Dementia Support Northwest",
-            "email": "alz@alzsociety.org",
             "description": "Supports people with dementia and their caregivers, families and friends, through education and by working with community partners to expand resources.",
+            "email": "alz@alzsociety.org",
             "id": "recFLU1bFpOUB7KvB",
             "website": "https://www.dementiasupportnw.org",
             "dpmgid": "69"
@@ -419,17 +419,17 @@
         },
         {
             "name": "Washington Landlord Association",
-            "email": "everett@walandlord.com",
             "description": "Committed to protecting landlords' property rights and their ability to \nmanage their rentals.",
+            "email": "everett@walandlord.com",
             "id": "recHRoQPhiIDHj0Ry",
             "website": "https://walandlord.org",
             "dpmgid": "69"
         },
         {
             "name": "Bellingham and Whatcom County Housing Authorities",
-            "email": "Info@BellinghamHousing.org",
-            "description": "A local government agency that provides housing in Whatcom County. Programs serve low-income residents, seniors, people with disabilities, and working families in need of affordable housing.",
             "alternate_name": "BWCHA",
+            "description": "A local government agency that provides housing in Whatcom County. Programs serve low-income residents, seniors, people with disabilities, and working families in need of affordable housing.",
+            "email": "Info@BellinghamHousing.org",
             "id": "recIWjeqOP31aZ8g0",
             "website": "http://www.bellinghamhousing.org/",
             "dpmgid": "69"
@@ -443,8 +443,8 @@
         },
         {
             "name": "Whatcom County Health and Community Services",
-            "description": "Health Department for Whatcom County.",
             "alternate_name": "Whatcom County Health Department",
+            "description": "Health Department for Whatcom County.",
             "id": "recJZYNG2DZYzZEuX",
             "website": "http://www.co.whatcom.wa.us/health/",
             "dpmgid": "69"
@@ -465,32 +465,32 @@
         },
         {
             "name": "The Whatcom Dream",
-            "email": "info@thewhatcomdream.org",
             "description": "A non-profit organization that provides free financial empowerment courses and community education.\u00a0",
+            "email": "info@thewhatcomdream.org",
             "id": "recK9D3nLQtWqdwvd",
             "website": "http://thewhatcomdream.org/",
             "dpmgid": "69"
         },
         {
             "name": "Miracle Food Network",
-            "email": "admin@miraclefoodnetwork.org",
             "description": "Community-based food distributor with locations throughout Whatcom County. Food pick-up days/times vary by location. Schedule and phone numbers for each location are listed online.",
+            "email": "admin@miraclefoodnetwork.org",
             "id": "recKWHoz0vQ5kTc9v",
             "website": "www.miraclefoodnetwork.org/",
             "dpmgid": "69"
         },
         {
             "name": "Our Treehouse",
-            "email": "info@our-treehouse.org",
             "description": "Serves as a loving, healing community for children, youth, and families to grieve. Through peer support groups, provision of school-based support, and referrals to other community resources.",
+            "email": "info@our-treehouse.org",
             "id": "recKdyh3wlpyZ2Jr9",
             "website": "https://www.our-treehouse.org",
             "dpmgid": "69"
         },
         {
             "name": "University of Washington School of Dentistry ",
-            "description": "Through service, the School of Dentistry strives to improve the public\u2019s health through outreach programs with attention to minority and underserved communities.",
             "alternate_name": "UW",
+            "description": "Through service, the School of Dentistry strives to improve the public\u2019s health through outreach programs with attention to minority and underserved communities.",
             "id": "recLEEtTCt8F6jJ8E",
             "website": "http://www.washington.edu/",
             "dpmgid": "69"
@@ -511,8 +511,8 @@
         },
         {
             "name": "Hope and Thrive Counseling ",
-            "email": "info_admin@hopethrivecounseling.com",
             "description": "Provides a variety of therapy services to individuals, couples, and families.",
+            "email": "info_admin@hopethrivecounseling.com",
             "id": "recLzaxMm8HQiGLbx",
             "website": "https://www.hopethrivecounseling.com ",
             "dpmgid": "69"
@@ -526,8 +526,8 @@
         },
         {
             "name": "Animals as Natural Therapy",
-            "email": "program@animalsasnaturaltherapy.org",
             "description": "Improving mental and behavioral health through animal-guided programs and mentorship with special attention to youth and veterans in Northwest Washington.",
+            "email": "program@animalsasnaturaltherapy.org",
             "tax_status": "501(c)3 Nonprofit",
             "id": "recMCsRhqPFdfHAN6",
             "website": "www.animalsasnaturaltherapy.org/",
@@ -543,6 +543,7 @@
         {
             "name": "Brigid Collins Family Support Center",
             "description": "A commitment-based organization dedicated to protecting children, building strong families, and ending child abuse. ",
+            "email": "contact@brigidcollins.org",
             "id": "recNArHkSejatB7aA",
             "website": "http://www.brigidcollins.org/",
             "dpmgid": "69"
@@ -584,16 +585,16 @@
         },
         {
             "name": "Sustainable Connections",
-            "email": "info@sustainableconnections.org",
             "description": "Creating thriving communities through innovative ideas, collaboration, and action.",
+            "email": "info@sustainableconnections.org",
             "id": "recNzyDe9YKrRjD5k",
             "website": "https://sustainableconnections.org",
             "dpmgid": "69"
         },
         {
             "name": "Child Care Aware of Washington",
-            "email": "familycenter@childcare.org",
             "description": "A nonprofit organization dedicated to ensuring that every child in Washington has access to high-quality child care and early learning programs by providing statewide child care resource and referral. ",
+            "email": "familycenter@childcare.org",
             "id": "recO9Gbrdy0IJ9NSv",
             "website": "https://childcareawarewa.org/families/",
             "dpmgid": "69"
@@ -628,8 +629,8 @@
         },
         {
             "name": "Whatcom Community College",
-            "description": "A regionally and nationally accredited college offering transfer degrees, professional-technical training programs, as well as basic education, job skills, and Community & Continuing Education classes. ",
             "alternate_name": "WCC",
+            "description": "A regionally and nationally accredited college offering transfer degrees, professional-technical training programs, as well as basic education, job skills, and Community & Continuing Education classes. ",
             "id": "recP9zgE2U1h27yNI",
             "website": "http://www.whatcom.ctc.edu",
             "dpmgid": "69"
@@ -643,8 +644,8 @@
         },
         {
             "name": "Share the Love ",
-            "email": "sharethelove@cottonbabies.com",
             "description": "A national cloth diaper bank that works to achieve one goal:\neliminate diaper need and poverty in our local communities.",
+            "email": "sharethelove@cottonbabies.com",
             "id": "recPxqZBnT88wP4pt",
             "website": "http://www.cottonbabieslove.com",
             "dpmgid": "69"
@@ -658,32 +659,32 @@
         },
         {
             "name": "Domestic Violence and Sexual Assault Services (DVSAS)",
-            "description": "Supports individuals affected by domestic violence, sexual assault, and sexual exploitation, and provides community education. All services are free and confidential.",
             "alternate_name": "DVSAS",
+            "description": "Supports individuals affected by domestic violence, sexual assault, and sexual exploitation, and provides community education. All services are free and confidential.",
             "id": "recQoHGS6iV9TYdV2",
             "website": "http://www.dvsas.org/",
             "dpmgid": "69"
         },
         {
             "name": "Whatcom Asset Building Coalition (WABC)",
-            "email": "admin@whatcomabc.org",
             "description": "A community collaboration supporting financial self-sufficiency through education and advocacy. Home to an online community resource center containing information and resources on managing your money and improving your quality of life.",
+            "email": "admin@whatcomabc.org",
             "id": "recQpigg5fagR7eXX",
             "website": "https://www.whatcomabc.org",
             "dpmgid": "69"
         },
         {
             "name": "We R Native",
-            "email": "native@npaihb.org",
             "description": "A comprehensive health resource for Native youth, by Native youth, providing content and stories, striving to promote holistic health and positive growth in local communities and nation at large.",
+            "email": "native@npaihb.org",
             "id": "recRq127hyxc4MiBJ",
             "website": "https://www.wernative.org/",
             "dpmgid": "69"
         },
         {
             "name": "AES Inc.",
-            "description": "Help finding temporary or long term work. Skill assessment and job-matching tools lead to job opportunities that match applicants' abilities and interests, and higher degrees of success and job satisfaction.",
             "alternate_name": "An Employment Solution Inc. ",
+            "description": "Help finding temporary or long term work. Skill assessment and job-matching tools lead to job opportunities that match applicants' abilities and interests, and higher degrees of success and job satisfaction.",
             "id": "recSJmvFKHD18l8SJ",
             "website": "https://anemploymentsource.com",
             "dpmgid": "69"
@@ -711,16 +712,16 @@
         },
         {
             "name": "Northwest Behavioral ",
-            "email": "nbehavorial@hotmail.com",
             "description": "Provides counseling services for individuals, couples, and families. Case management services available for qualified Group Health clients in their homes or care facilities. ",
+            "email": "nbehavorial@hotmail.com",
             "id": "recSdrrVKZNG2zU3e",
             "website": "http://www.nwbehavioral.org/",
             "dpmgid": "69"
         },
         {
             "name": "Kulshan Community Land Trust ",
-            "email": "info@kulshanclt.org",
             "description": "Works to create healthy communities through permanently affordable homeownership. Also offers home buyer financial and education classes.",
+            "email": "info@kulshanclt.org",
             "id": "recSgUXNwUf1utVSO",
             "website": "www.kulshanclt.org/",
             "dpmgid": "69"
@@ -741,9 +742,9 @@
         },
         {
             "name": "Northwest Youth Services ",
-            "email": "hello@nwys.org",
-            "description": "Radical innovative services and care models that go beyond physical well-being to build social capital in partnership with young people, 13 to 24-year-olds experiencing homelessness or unstable housing.",
             "alternate_name": "NWYS",
+            "description": "Radical innovative services and care models that go beyond physical well-being to build social capital in partnership with young people, 13 to 24-year-olds experiencing homelessness or unstable housing.",
+            "email": "hello@nwys.org",
             "id": "recTVb0eSkBjzN2Gk",
             "website": "www.nwys.org",
             "dpmgid": "69"
@@ -764,8 +765,8 @@
         },
         {
             "name": "Washington State Department of Health",
-            "description": "Statewide health department working to protect and improve the health of all people in Washington state.",
             "alternate_name": "DOH",
+            "description": "Statewide health department working to protect and improve the health of all people in Washington state.",
             "id": "recUL3ZWWPe9Aa2gn",
             "website": "https://doh.wa.gov",
             "dpmgid": "69"
@@ -793,8 +794,8 @@
         },
         {
             "name": "Northwest Justice Project ",
-            "description": "Provides free legal assistance to address fundamental human needs such as housing, family safety, income security, health care, education, and more. ",
             "alternate_name": "NJP",
+            "description": "Provides free legal assistance to address fundamental human needs such as housing, family safety, income security, health care, education, and more. ",
             "id": "recX4BjXeBvMTyt2b",
             "website": "http://www.nwjustice.org/",
             "dpmgid": "69"
@@ -808,8 +809,8 @@
         },
         {
             "name": "Apple Health",
-            "description": "Free or low-cost health insurance. Coverage includes primary care, emergency visits, maternity services, pediatric care, dental services, vision care, prescription medications and more. ",
             "alternate_name": "Medicaid",
+            "description": "Free or low-cost health insurance. Coverage includes primary care, emergency visits, maternity services, pediatric care, dental services, vision care, prescription medications and more. ",
             "id": "recXIbRfoGvNJq1xi",
             "website": "https://www.hca.wa.gov",
             "dpmgid": "69"
@@ -823,49 +824,49 @@
         },
         {
             "name": "Love INC",
-            "description": "Works to connect neighbors in need with people from local churches who can help. ",
             "alternate_name": "Love in the Name of Christ",
+            "description": "Works to connect neighbors in need with people from local churches who can help. ",
             "id": "recYETvSQQReCYqEV",
             "website": "https://www.whatcomloveinc.org",
             "dpmgid": "69"
         },
         {
             "name": "InfantSEE",
-            "email": "infantsee@aoa.org  ",
             "description": "A public health program designed to ensure that eye and vision care becomes an integral part of infant wellness care to improve a child's quality of life. Under this program, no-cost comprehensive eye and vision assessments are available for infants 6-12 months old regardless of a family's income or access to insurance coverage.\n\n",
+            "email": "infantsee@aoa.org  ",
             "id": "recYkqeMF8h05iwA1",
             "website": "https://www.infantsee.org/?sso=y",
             "dpmgid": "69"
         },
         {
             "name": "Whatcom Long Term Recovery Group",
-            "email": " WhatcomLTRG@gmail.com",
-            "description": "Provides coordination and recovery services to individuals, families and entities adversely impacted by disaster in Whatcom County",
             "alternate_name": "LTRG",
+            "description": "Provides coordination and recovery services to individuals, families and entities adversely impacted by disaster in Whatcom County",
+            "email": " WhatcomLTRG@gmail.com",
             "id": "recZV2xq479HEXVC5",
             "website": "https://www.whatcomstrong.com",
             "dpmgid": "69"
         },
         {
             "name": "Nooksack Valley Food Bank",
-            "email": "nooksackvalleyfoodbank@gmail.com",
             "description": "Provides produce, canned goods, breads, meat, and dairy items. No ID or proof of address required. Income guidelines are currently 400% of Federal Poverty Level.",
+            "email": "nooksackvalleyfoodbank@gmail.com",
             "id": "recZgVJhgQYWqEhY0",
             "website": "https://www.facebook.com/NooksackValleyFoodBank/",
             "dpmgid": "69"
         },
         {
             "name": "Whatcom Dispute Resolution Center",
-            "email": "wdrc@whatcomdrc.org",
             "description": "Offers conflict prevention and intervention services for businesses, organizations, individuals, and families. ",
+            "email": "wdrc@whatcomdrc.org",
             "id": "recZtYk76139VB83U",
             "website": "https://www.whatcomdrc.org/",
             "dpmgid": "69"
         },
         {
             "name": "Ferndale Food Bank ",
-            "email": "director@ferndalefoodbank.org",
             "description": "Provides food and support to all community members in need. Individuals and families can visit once a week for as long as assistance is needed.",
+            "email": "director@ferndalefoodbank.org",
             "id": "recZyPOoMlF94pdqH",
             "website": "http://ferndalefoodbank.org",
             "dpmgid": "69"
@@ -886,34 +887,34 @@
         },
         {
             "name": "Whatcom Transportation Authority (WTA)",
-            "email": " customerservice@ridewta.com\u200b",
-            "description": "Provides public transportation services throughout Whatcom County. Services include Fixed Routes, Paratransit, Zone Service\u200b and a Vanpool program.\u200b \u200b",
             "alternate_name": "WTA",
+            "description": "Provides public transportation services throughout Whatcom County. Services include Fixed Routes, Paratransit, Zone Service\u200b and a Vanpool program.\u200b \u200b",
+            "email": " customerservice@ridewta.com\u200b",
             "id": "recaNfFwzhorwerGZ",
             "website": "http://www.ridewta.com/",
             "dpmgid": "69"
         },
         {
             "name": "Ben's Fund",
-            "email": "info@bensfund.org",
             "description": "Provides financial support and guidance to  children and young adults  in the state of Washington who have autism.  ",
+            "email": "info@bensfund.org",
             "id": "recaijhznVg8a7NI2",
             "website": "www.bensfund.org/",
             "dpmgid": "69"
         },
         {
             "name": "The RE Store",
-            "email": "bham@re-store.org",
             "description": "A non-profit program with a retail location in Bellingham intended to divert reusable materials from the landfill and to build a culture of reuse in our community. ",
+            "email": "bham@re-store.org",
             "id": "recaoekBUHQ3oblKl",
             "website": "http://www.re-sources.org/",
             "dpmgid": "69"
         },
         {
             "name": "Northwest Access Fund",
-            "email": "info@nwaccessfund.org",
-            "description": "Offers people with disabilities customized loans, financial coaching, and other resources to promote access to assistive technology, independence, financial resilience, and life opportunities.",
             "alternate_name": "NWAF",
+            "description": "Offers people with disabilities customized loans, financial coaching, and other resources to promote access to assistive technology, independence, financial resilience, and life opportunities.",
+            "email": "info@nwaccessfund.org",
             "id": "recat4SzKhw660PQg",
             "website": "https://www.nwaccessfund.org",
             "dpmgid": "69"
@@ -934,17 +935,17 @@
         },
         {
             "name": "HireQuest Inc.",
-            "description": "Temporary workforce hiring and professional recruiting solutions.  Industries include construction, light industrial, healthcare, hospitality, CDL/non-CDL, disaster restoration, and more.",
             "alternate_name": "Command Center",
+            "description": "Temporary workforce hiring and professional recruiting solutions.  Industries include construction, light industrial, healthcare, hospitality, CDL/non-CDL, disaster restoration, and more.",
             "id": "recbI1eQ3DqXLrmaM",
             "website": "http://www.commandonline.com/",
             "dpmgid": "69"
         },
         {
             "name": "Blaine Community Assistance Program",
-            "email": "info@blainecap.org",
-            "description": "Serves the people of the Blaine, Birch Bay, Custer, and Point Roberts communities who are in need of assistance to meet their basic requirements for food, clothing, and other necessities of daily life.",
             "alternate_name": "Blaine CAP",
+            "description": "Serves the people of the Blaine, Birch Bay, Custer, and Point Roberts communities who are in need of assistance to meet their basic requirements for food, clothing, and other necessities of daily life.",
+            "email": "info@blainecap.org",
             "id": "recbfO4jLyfUYxCSg",
             "website": "https://blainecap.org/",
             "dpmgid": "69"
@@ -958,8 +959,8 @@
         },
         {
             "name": "Lynden Community / Senior Center ",
-            "email": "info@lyndencommunitycenter.org",
             "description": "A nonprofit organization that seeks to provide a place for community members to experience great food, friendship, and fun.",
+            "email": "info@lyndencommunitycenter.org",
             "id": "recc9N8wvxcmSFEb5",
             "website": "http://www.lyndencommunitycenter.org/",
             "dpmgid": "69"
@@ -1008,8 +1009,8 @@
         },
         {
             "name": "Wild Whatcom",
-            "email": "info@wildwhatcom.org",
             "description": "Wild Whatcom fosters connections to nature to promote the health and well-being of young people in our community and to support our community in raising a generation of environmental stewards who care about each other and the planet.",
+            "email": "info@wildwhatcom.org",
             "id": "recdewnt9uVaZRJ3g",
             "website": "https://www.wildwhatcom.org/",
             "dpmgid": "69"
@@ -1023,8 +1024,8 @@
         },
         {
             "name": "Northwest Regional Council",
-            "description": "An association of county governments serving the people of Island, San Juan, Skagit, and Whatcom Counties with a focus on delivering coordinated support for seniors, people with disabilities, and people with complex medical conditions.",
             "alternate_name": "NWRC",
+            "description": "An association of county governments serving the people of Island, San Juan, Skagit, and Whatcom Counties with a focus on delivering coordinated support for seniors, people with disabilities, and people with complex medical conditions.",
             "id": "rece0aRej6poWOhsO",
             "website": "http://www.nwrcwa.org/",
             "dpmgid": "69"
@@ -1045,35 +1046,35 @@
         },
         {
             "name": "Washington State Coalition Against Domestic Violence",
-            "email": "wscadv@wscadv.org",
-            "description": "A non-profit network of domestic violence programs working together to end domestic violence through advocacy and action for social change.",
             "alternate_name": "WSCADV",
+            "description": "A non-profit network of domestic violence programs working together to end domestic violence through advocacy and action for social change.",
+            "email": "wscadv@wscadv.org",
             "id": "recenC7IXW7cbtlBC",
             "website": "http://www.wscadv.org/",
             "dpmgid": "69"
         },
         {
             "name": "A Watered Garden Family Learning Center",
-            "email": "awateredgardenflc@comcast.net",
             "description": "A non-profit faith based organization dedicated to offering educational and personal growth opportunities. Individuals and families build capacity to move from poverty to prosperity in their home and community through communication, cooperation, and collaboration.",
+            "email": "awateredgardenflc@comcast.net",
             "id": "recf9bIzdIlQmqDHY",
             "website": "https://awateredgardenflc.weebly.com",
             "dpmgid": "69"
         },
         {
             "name": "NAMI of Whatcom County ",
-            "email": "namiadmin@namiwhatcom.org",
-            "description": "Free support groups and education classes offered to all those affected by mental illness including family members and friends.  \n ",
             "alternate_name": " National Alliance on Mental Illness of Whatcom County",
+            "description": "Free support groups and education classes offered to all those affected by mental illness including family members and friends.  \n ",
+            "email": "namiadmin@namiwhatcom.org",
             "id": "recfPcfixvgRYPbpO",
             "website": "www.namiwhatcom.org",
             "dpmgid": "69"
         },
         {
             "name": "Whatcom Center for Early Learning",
-            "email": "info@wcel.net",
-            "description": "Providing comprehensive, family centered early intervention services for children ages birth to three with special needs.",
             "alternate_name": "WCEL",
+            "description": "Providing comprehensive, family centered early intervention services for children ages birth to three with special needs.",
+            "email": "info@wcel.net",
             "id": "recg7jDTC0tu0v8wl",
             "website": "http://www.wcel.net/",
             "dpmgid": "69"
@@ -1087,16 +1088,16 @@
         },
         {
             "name": "Bellingham Childcare and Learning Center",
-            "email": "Info@bellinghamchildcare.com",
             "description": "Provides high quality, affordable childcare to families of all income levels, assisting low-income families to become self-sufficient. ",
+            "email": "Info@bellinghamchildcare.com",
             "id": "recgaE1UifvpGazoA",
             "website": "www.bellinghamchildcare.com/",
             "dpmgid": "69"
         },
         {
             "name": "YWCA Bellingham",
-            "email": " info@YWCAbellingham.org ",
             "description": "Part of a national network of programs with the shared mission of ending racism, empowering women, and promoting peace, justice, and freedom for all. Offers low-cost and free housing to women in crisis.",
+            "email": " info@YWCAbellingham.org ",
             "id": "recgi7Q5HWNjV0Fbs",
             "website": "http://www.ywcabellingham.org/",
             "dpmgid": "69"
@@ -1117,17 +1118,17 @@
         },
         {
             "name": "Catholic Community Services and Catholic Housing Services",
-            "email": "Info@ccsww.org",
-            "description": "Human service outreach arms of the Catholic Church in Western Washington committed to serving individuals, children, families and communities struggling with poverty and the effects of intolerance and racism, and to actively joining with others to work for justice. Serves people in need, regardless of religious affiliation, race or economic status.",
             "alternate_name": "CCS",
+            "description": "Human service outreach arms of the Catholic Church in Western Washington committed to serving individuals, children, families and communities struggling with poverty and the effects of intolerance and racism, and to actively joining with others to work for justice. Serves people in need, regardless of religious affiliation, race or economic status.",
+            "email": "Info@ccsww.org",
             "id": "reciYk1aR2QU74CdE",
             "website": "http://www.ccsww.org/",
             "dpmgid": "69"
         },
         {
             "name": "Ferndale Community Services",
-            "email": "info@ferndalecs.org",
             "description": "A nonprofit organization whose mission is to understand and alleviate unmet needs by providing resources and connection. ",
+            "email": "info@ferndalecs.org",
             "id": "recizcFkyPmYpAqT7",
             "website": "http://www.ferndalecsc.org ",
             "dpmgid": "69"
@@ -1141,16 +1142,16 @@
         },
         {
             "name": "Narcotics Anonymous (NA)",
-            "description": "A non-profit fellowship of people who suffer from the disease of addiction. Groups meet on a regular basis to help each other stay clean and share experience, strength, and hope. ",
             "alternate_name": "NA",
+            "description": "A non-profit fellowship of people who suffer from the disease of addiction. Groups meet on a regular basis to help each other stay clean and share experience, strength, and hope. ",
             "id": "recjGLgeAp9BxeMJD",
             "website": "https://nwscna.org/",
             "dpmgid": "69"
         },
         {
             "name": "Roots of Empathy ",
-            "email": "mail@rootsofempathy.org",
             "description": "School-based programs proven to reduce aggression, increase sharing, caring and inclusion, and promote resilience, well-being and positive mental health.",
+            "email": "mail@rootsofempathy.org",
             "id": "recjlfPhhG9Rf8X3Q",
             "website": "https://us.rootsofempathy.org/",
             "dpmgid": "69"
@@ -1171,24 +1172,24 @@
         },
         {
             "name": "Sisu Children's Fund ",
-            "email": "sisuchildrensfund@gmail.com",
             "description": "Grants for children and young adults with medical problems or physical disabilities to meet needs that are not covered by insurance. Also provides education scholarships to young adults with medical and/or physical disabilities. ",
+            "email": "sisuchildrensfund@gmail.com",
             "id": "reckHuOpmMch5NoXF",
             "website": "sisuchildrensfund.org/",
             "dpmgid": "69"
         },
         {
             "name": "PREPARES",
-            "email": "prepares@ccsww.org",
             "description": "A program of the Catholic community in Washington state, open to all. Provides support to mothers, fathers, and families as they nurture their children through pregnancy and early childhood. Volunteers at the PREPARES program offer support and activities for families from pregnancy to your child\u2019s fifth birthday.",
+            "email": "prepares@ccsww.org",
             "id": "reckQ4uP9VVsJBJFI",
             "website": "https://preparesforlife.org/",
             "dpmgid": "69"
         },
         {
             "name": "Missing Persons Information ",
-            "email": "programs@waspc.org",
             "description": "Website containing relevant information concerning persons reported missing in the State of Washington.",
+            "email": "programs@waspc.org",
             "id": "reckSmWRNzxnMO7XV",
             "website": "http://www.waspc.org/missing-persons-information",
             "dpmgid": "69"
@@ -1237,16 +1238,16 @@
         },
         {
             "name": "PeopleReady",
-            "email": "1109-br@peopleready.com",
             "description": "Specializes in quick and reliable on-demand labor and highly skilled workers. Supports a wide range of blue-collar industries, including construction, manufacturing and logistics, waste and recycling, and hospitality.",
+            "email": "1109-br@peopleready.com",
             "id": "recl5MoRJUsxLLXjz",
             "website": "https://www.peopleready.com/location/bellingham-wa-1109/",
             "dpmgid": "69"
         },
         {
             "name": "Affordable Connectivity Program (ACP)",
-            "description": "A U.S. government program to help low-income households pay for internet service and connected devices like a laptop or tablet.",
             "alternate_name": "Emergency Broadband Benefit",
+            "description": "A U.S. government program to help low-income households pay for internet service and connected devices like a laptop or tablet.",
             "id": "reclmt9jmFxp83pFI",
             "website": "https://www.affordableconnectivity.gov",
             "dpmgid": "69"
@@ -1260,17 +1261,17 @@
         },
         {
             "name": "Lifeline Connections",
-            "email": "info@lifelineconnections.org",
             "description": "Behavioral health organization that specializes in providing care to individuals who experience substance use and/or mental health conditions.",
+            "email": "info@lifelineconnections.org",
             "id": "recm9btxu2vmlVay3",
             "website": "https://lifelineconnections.org/",
             "dpmgid": "69"
         },
         {
             "name": "PAVE",
-            "email": "pave@wapave.org",
-            "description": "Provides support, training, information and resources to empower and give voice to individuals, youth and families impacted by disabilities. ",
             "alternate_name": "Partnerships for Action Voices for Empowerment",
+            "description": "Provides support, training, information and resources to empower and give voice to individuals, youth and families impacted by disabilities. ",
+            "email": "pave@wapave.org",
             "id": "recmA2p3m5tggtFwu",
             "website": "https://wapave.org",
             "dpmgid": "69"
@@ -1284,8 +1285,8 @@
         },
         {
             "name": "Whatcom Mental Health Newsletter",
-            "email": "mail@WhatcomMentalHealth.org",
             "description": "Relevant local mental health related information gathered from the community and shared through a periodic electronic newsletter.",
+            "email": "mail@WhatcomMentalHealth.org",
             "id": "recmMFpGsEE81a44K",
             "website": "http://www.whatcommentalhealth.org",
             "dpmgid": "69"
@@ -1299,8 +1300,8 @@
         },
         {
             "name": "Assistance League of Bellingham",
-            "email": "contact@albham.org",
             "description": "An all-volunteer nonprofit organization transforming lives and strengthening community through philanthropic programs within Whatcom County.",
+            "email": "contact@albham.org",
             "id": "recn2NZelPB4vXR9r",
             "website": "https://www.assistanceleague.org/bellingham/",
             "dpmgid": "69"
@@ -1314,8 +1315,8 @@
         },
         {
             "name": "Contact Counseling Recovery Services",
-            "email": "info@contactcounseling.com",
             "description": "Provides drug and alcohol counseling, assessments, consultation, intervention services, referral to inpatient treatment, sober living and outpatient treatment to both youth and adults.",
+            "email": "info@contactcounseling.com",
             "id": "recneSbrfV842KTWc",
             "website": "https://www.contactcounseling.com",
             "dpmgid": "69"
@@ -1329,8 +1330,8 @@
         },
         {
             "name": "988 Suicide and Crisis Lifeline",
-            "description": "A national network of local crisis centers that provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week in the United States.",
             "alternate_name": "National Suicide Prevention Lifeline ",
+            "description": "A national network of local crisis centers that provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week in the United States.",
             "id": "reco8WndMJBpuIiNk",
             "website": "988lifeline.org/",
             "dpmgid": "69"
@@ -1344,16 +1345,16 @@
         },
         {
             "name": "Whatcom Literacy Council",
-            "email": "info@whatcomliteracy.org",
             "description": "Helps adults in Whatcom County improve their literacy skills and learn English through customized, individual tutoring and focused small group classes.",
+            "email": "info@whatcomliteracy.org",
             "id": "recoSEftnQOIXg4do",
             "website": "http://www.whatcomliteracy.org/",
             "dpmgid": "69"
         },
         {
             "name": "WorkSource Whatcom",
-            "email": "info@nwc-connect.org ",
             "description": "A statewide partnership of state, local and nonprofit agencies that provides an array of employment and training services to job seekers and employers in Washington.\n",
+            "email": "info@nwc-connect.org ",
             "id": "recoSpCIxJjVnai1Y",
             "website": "http://www.worksourcewa.com/",
             "dpmgid": "69"
@@ -1395,8 +1396,8 @@
         },
         {
             "name": "Southside Community Meal",
-            "email": "office@oursavioursbham.org",
             "description": "Everyone is invited to the free monthly community meal hosted at Our Savior Lutheran Church on the third Sunday of every month from 5:00 - 6:30 PM. There is no meal in December, as well as in June, July, and August.",
+            "email": "office@oursavioursbham.org",
             "id": "recpxFpMHBNr9xxA7",
             "website": "https://www.oursavioursbham.org/southside-community-meal",
             "dpmgid": "69"
@@ -1417,9 +1418,9 @@
         },
         {
             "name": "Program for Early Parent Support ",
-            "email": "PEPS@peps.org",
-            "description": "A nonprofit organization that helps parents connect and grow as they begin their journey into parenthood. Parent support programs educate, inform and create community.",
             "alternate_name": "PEPS",
+            "description": "A nonprofit organization that helps parents connect and grow as they begin their journey into parenthood. Parent support programs educate, inform and create community.",
+            "email": "PEPS@peps.org",
             "id": "recs1KwHk3vYxEAym",
             "website": "https://www.peps.org/",
             "dpmgid": "69"
@@ -1433,8 +1434,8 @@
         },
         {
             "name": "Generations Forward",
-            "email": "info@generationsforward.net",
             "description": "A collaborative of Whatcom families and community partners that strive to support children and family well-being through relationship building, education and co-learning, and policy advocacy.",
+            "email": "info@generationsforward.net",
             "id": "recsU5ShypaODfiTK",
             "website": "https://www.generationsforward.net/",
             "dpmgid": "69"
@@ -1447,32 +1448,32 @@
         },
         {
             "name": "Whatcom County Pregnancy Clinic",
-            "email": "info@whatcomclinic.com",
             "description": "Faith-based organization dedicated to educating, equipping, and empowering individuals and families facing an unplanned pregnancy. All services are free. (Does not provide abortion services)",
+            "email": "info@whatcomclinic.com",
             "id": "recszhfVQHX66ugog",
             "website": "http://www.whatcomclinic.com/",
             "dpmgid": "69"
         },
         {
             "name": "Kids in Motion Therapy Clinic",
-            "email": "pr@kidsinmotionclinic.org",
             "description": "Provides physical, occupational and speech therapy for children with neurodevelopmental disorders. Offers both center-based (located at Christ the King Community Church, Bellingham) and home-based therapy services to support the development of successful strategies for daily living. ",
+            "email": "pr@kidsinmotionclinic.org",
             "id": "rectE7ULTUiVuquRK",
             "website": "www.kidsinmotionclinic.org/",
             "dpmgid": "69"
         },
         {
             "name": "Parenting Academy",
-            "email": "contact@parenting-academy.org",
             "description": "Parent skill-building programs available, including one-on-one coaching, groups, and parenting seminars for parents, grandparents, families and friends of children.",
+            "email": "contact@parenting-academy.org",
             "id": "rectN4Q41q1ki302i",
             "website": "https://parenting-academy.org/",
             "dpmgid": "69"
         },
         {
             "name": "Grief Share",
-            "email": "info@griefshare.org",
             "description": "Seminars and support groups  led by people who understand grief and want to help. ",
+            "email": "info@griefshare.org",
             "id": "recuM2gJJpCqG98Ae",
             "website": "www.griefshare.org/",
             "dpmgid": "69"
@@ -1500,18 +1501,18 @@
         },
         {
             "name": "Whatcom Family and Community Network",
-            "email": "info@wfcn.org",
-            "description": "Promotes the well-being of children, youth, and families by convening and supporting communities to build their capacity. WFCN networks for collective action on issues that matter; to develop community capacity through prevention strategies, such as leadership and skill development and increasing healthy activities to reduce substance abuse and other harmful behavior.",
             "alternate_name": "WFCN",
+            "description": "Promotes the well-being of children, youth, and families by convening and supporting communities to build their capacity. WFCN networks for collective action on issues that matter; to develop community capacity through prevention strategies, such as leadership and skill development and increasing healthy activities to reduce substance abuse and other harmful behavior.",
+            "email": "info@wfcn.org",
             "id": "recvl3stV8ZXU9fJq",
             "website": "https://wfcn.org",
             "dpmgid": "69"
         },
         {
             "name": "Bellingham Technical College",
-            "email": "btc@btc.edu",
-            "description": "A leading educational institution, and the only technical college in northwest Washington State. BTC offers skills-focused education in a supportive, student-first environment.",
             "alternate_name": "BTC",
+            "description": "A leading educational institution, and the only technical college in northwest Washington State. BTC offers skills-focused education in a supportive, student-first environment.",
+            "email": "btc@btc.edu",
             "id": "recw1nzXDLVHFdNFr",
             "website": "www.btc.edu",
             "dpmgid": "69"
@@ -2746,6 +2747,13 @@
             "name": "Parenting Academy",
             "id": "recYSxw8Kg3azr1GD",
             "organization_id": "rectN4Q41q1ki302i",
+            "dpmgid": "69",
+            "location_type": ""
+        },
+        {
+            "name": "Mount Baker School District",
+            "id": "recYV91zTLRUXeEli",
+            "organization_id": "recv4Nk8G8hi7yLgS",
             "dpmgid": "69",
             "location_type": ""
         },
@@ -4476,8 +4484,8 @@
         },
         {
             "name": "Developmental Preschool - FSD",
-            "description": "Provides a developmentally appropriate curriculum for children 3 -  5 years old who have significant developmental delays. ",
-            "url": "https://www.ferndalesd.org/deptprograms/early-learning-center-clone",
+            "description": "Provides a developmentally appropriate curriculum for children 3 -  5 years old. ",
+            "url": "https://www.ferndalesd.org/community/early-learning-center-clone",
             "application_process": "Complete a Child Find Screening to find out if your child qualifies. ",
             "id": "rec67rsBs29EgZuZL",
             "organization_id": "recVLAFl8FDBrUiR3",
@@ -5547,7 +5555,7 @@
         {
             "name": "Ferndale Student Services",
             "description": "Serves Special Education, English Language Learners, Native American Education, Section 504, Early Learning and McKinney Vento (Homeless families and youth), students in Foster Care and Migrant students, student health needs and families and students in need of resources (clothing, food, transportation, etc.).",
-            "url": "https://www.ferndalesd.org/deptprograms/teaching-learning/student-services",
+            "url": "https://www.ferndalesd.org/deptprograms/teaching-learning/special-education",
             "id": "recFvVWOJWbuxKgyT",
             "organization_id": "recVLAFl8FDBrUiR3",
             "dpmgid": "69",
@@ -6173,7 +6181,8 @@
         {
             "name": "Child Find Screenings - LSD",
             "description": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening.",
-            "url": "https://lynden.wednet.edu/programs/child-find/",
+            "url": "https://lynden.wednet.edu/programs/early-learning/",
+            "email": "Wilesl@lynden.wednet.edu",
             "id": "recKclZGHPGaapYDx",
             "organization_id": "recF2KxgaUqKwQwx2",
             "dpmgid": "69",
@@ -7053,7 +7062,7 @@
         {
             "name": "Whatcom Homeless Service Center",
             "alternate_name": "WHSC",
-            "description": "Provides referrals to housing services to prevent and end homelessness. Apply through the Community Resource Center. ",
+            "description": "Provides referrals to housing and case management services in Whatcom County. Contact the Community Resource Center to be screened for homeless housing services.",
             "url": "https://www.oppco.org/whsc/",
             "application_process": "Contact the Community Resource Center to apply for services.",
             "id": "recSp82tNyCTHA1Je",
@@ -7619,7 +7628,7 @@
             "description": "Integrated preschool classrooms that serve preschool children with developmental delays as well as their typically developing peers.  ",
             "url": "https://www.nv.k12.wa.us/departments-programs/early-childhood-program",
             "application_process": "Call to learn more about the program and enrollment.",
-            "fees": "Tuition only applies to typically developing peers. Waivers available.",
+            "fees": "Tuition waivers available.",
             "id": "recXlZe4nrmnGYhjy",
             "organization_id": "recdooJJUUy5BOuLG",
             "dpmgid": "69",
@@ -9247,8 +9256,7 @@
         {
             "name": "Child Find Screenings - FSD",
             "description": "A screening to identify any factors that may interfere with a child\u2019s learning, growth and development. The screening is also provided to help parents identify their child\u2019s strengths and weaknesses and provide home suggestions and/or further evaluation if needed in any area of concern. Any child, birth to five, whose family or care givers would like more information about their child\u2019s development can contact their local school district to receive a free Child Find Screening.",
-            "url": "https://www.ferndalesd.org/deptprograms/early-learning-center-clone",
-            "email": "rachel.bowlden@ferndalesd.org",
+            "url": " https://www.ferndalesd.org/community/early-learning-center-clone",
             "application_process": "Call or email for more information and to schedule a screening.",
             "id": "recmICYkT4ILOc3PU",
             "organization_id": "recVLAFl8FDBrUiR3",
@@ -9300,8 +9308,7 @@
         {
             "name": "Ferndale Jump Start Kindergarten",
             "description": "A free transitional kindergarten for students who are scheduled to enter kindergarten in the upcoming fall. Students enter the Jump Start program based on need and/or ability such as financial, social emotional, academics, and /or transportation needs. Students must be 4 years old prior to August 31 to be eligible for the current school year. Students cannot be enrolled in another early learning program.",
-            "url": "https://www.ferndalesd.org/deptprograms/early-learning-center-clone",
-            "email": "rachel.bowlden@ferndalesd.org",
+            "url": "https://www.ferndalesd.org/community/early-learning-center-clone",
             "application_process": "Call or email to apply, or fill out the application online.",
             "id": "recmReKPAvgIajBLF",
             "organization_id": "recVLAFl8FDBrUiR3",
@@ -10335,7 +10342,7 @@
         },
         {
             "name": "Basics for Babies",
-            "description": "Provides 40 - 60 diapers per month to homeless and low-income families in Whatcom County who cannot afford enough diapers to keep their baby clean, dry, and health.",
+            "description": "Provides 40 - 60 diapers per month to homeless and low-income families in Whatcom County who cannot afford enough diapers to keep their baby clean, dry, and healthy.",
             "url": "https://www.oppco.org",
             "id": "recvEuwdPujXE3y11",
             "interpretation_services": "Telephone-Based Interpreter Services, Sign Language (in-person or video)",
@@ -16365,9 +16372,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "English speaking text or call helpline. For TTY Users: Use preferred relay service or dial 711 then 988.",
-            "type": "Helpline",
             "number": "988",
+            "type": "Helpline",
+            "description": "English speaking text or call helpline. For TTY Users: Use preferred relay service or dial 711 then 988.",
             "id": "rec2jyz4bO5QKcwwk",
             "service_id": "recjkhWFtiRL1maBY",
             "organization_id": "reco8WndMJBpuIiNk",
@@ -16387,8 +16394,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "302",
             "number": "(360) 715-0170",
+            "extension": "302",
             "id": "rec3uDrAhXbjgJTFG",
             "service_id": "recBuvLAnapmvEPUG",
             "dpmgid": "69"
@@ -16406,8 +16413,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Text",
             "number": "(360) 332-0740",
+            "description": "Text",
             "id": "rec5BWA1uAm2nD42B",
             "service_id": "recf8RBbNAM4zbePg",
             "dpmgid": "69"
@@ -16419,17 +16426,17 @@
             "dpmgid": "69"
         },
         {
+            "number": "988",
             "extension": "1",
             "type": "voice",
-            "number": "988",
             "id": "rec5mXMF7La1Pcz7j",
             "service_id": "recoSD3RdtbBmrDNQ",
             "organization_id": "recuMsIK2fjX3YxM6",
             "dpmgid": "69"
         },
         {
-            "extension": "123",
             "number": "(360) 676-0122",
+            "extension": "123",
             "id": "rec5wkuDv2Q9AW0lr",
             "service_id": "recWgf4s0ABeJeC6n",
             "dpmgid": "69"
@@ -16474,9 +16481,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "Text",
-            "type": "textphone",
             "number": "678-678",
+            "type": "textphone",
+            "description": "Text",
             "id": "rec6jt5Nri7TvHRsp",
             "service_id": "recbCEN8AQqNzqvD8",
             "organization_id": "rec282lP1JZMUo7Vo",
@@ -16507,16 +16514,16 @@
             "dpmgid": "69"
         },
         {
-            "extension": "188",
             "number": "(206) 957-7708",
+            "extension": "188",
             "id": "rec7oBSFWrywO9cTX",
             "service_id": "recBf6jYWtMlQ3d9y",
             "organization_id": "recaijhznVg8a7NI2",
             "dpmgid": "69"
         },
         {
-            "description": "24-hour youth emergency housing hotline",
             "number": "(360) 393-0116",
+            "description": "24-hour youth emergency housing hotline",
             "id": "rec8F5bxrdla4mBPa",
             "service_id": "recWZJjSqUEKf3zFr",
             "dpmgid": "69"
@@ -16535,8 +16542,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "4432",
             "number": "(360) 676-6470",
+            "extension": "4432",
             "id": "rec8tNly6OJbJBdcu",
             "service_id": "recY8KMkhZM5YNo2N",
             "dpmgid": "69"
@@ -16548,8 +16555,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Head Start Everson",
             "number": "(360)966-0523",
+            "description": "Head Start Everson",
             "id": "rec9FRRIWpu2WrimV",
             "service_id": "recsgjr5aVPT5kHNM",
             "dpmgid": "69"
@@ -16608,9 +16615,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "US phone number. ",
-            "type": "Helpline",
             "number": "877 565 8860",
+            "type": "Helpline",
+            "description": "US phone number. ",
             "id": "recALvBaBC9v6o7ne",
             "location_id": "recELqxdzX3sznnHT",
             "service_id": "recW3lKNSzuKmvaIR",
@@ -16618,8 +16625,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "International phone number ",
             "number": "(919) 562-2112",
+            "description": "International phone number ",
             "id": "recAUPjaWtodxoX5c",
             "organization_id": "recuM2gJJpCqG98Ae",
             "dpmgid": "69"
@@ -16631,8 +16638,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "3303",
             "number": "(360) 592-5176",
+            "extension": "3303",
             "id": "recAyq4H9T8Puy4Uw",
             "service_id": "rec5ZaQ9WZJBrq0ih",
             "dpmgid": "69"
@@ -16669,7 +16676,6 @@
             "dpmgid": "69"
         },
         {
-            "extension": "1137",
             "number": "(360) 255-2091",
             "id": "recC0zRitRt9qbGiW",
             "service_id": "recSp82tNyCTHA1Je",
@@ -16709,9 +16715,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "Text",
-            "type": "cell",
             "number": "360-559-5837",
+            "type": "cell",
+            "description": "Text",
             "id": "recCO1koTU7TsBSJu",
             "service_id": "recf8RBbNAM4zbePg",
             "contact_id": "rectJpcmt4OtfKyx5",
@@ -16777,8 +16783,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "15",
             "number": "(360) 671-6079",
+            "extension": "15",
             "id": "recFJTDuZqJ15M235",
             "service_id": "recGnyJWi0B8lVhp1",
             "dpmgid": "69"
@@ -16867,8 +16873,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "4",
             "number": "(360) 380-2200",
+            "extension": "4",
             "id": "recIYKk6TA3zX4dQb",
             "service_id": "recdXLf2gblla62gk",
             "dpmgid": "69"
@@ -16900,8 +16906,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "24 hr hotline",
             "number": "1-877-734-6277",
+            "description": "24 hr hotline",
             "id": "recJH3bIqffUAvP5K",
             "service_id": "rec5L1b40HY3YJDxr",
             "dpmgid": "69"
@@ -16919,8 +16925,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Cascade Connections Main Office",
             "number": "360-714-9355",
+            "description": "Cascade Connections Main Office",
             "id": "recJNe2oUOhnUySKB",
             "location_id": "recmveeIDaafJafU9",
             "service_id": "recXRVVmtMPeeoAuT",
@@ -16928,16 +16934,22 @@
             "dpmgid": "69"
         },
         {
-            "description": "24/7 after hours line",
+            "number": "(360) 383-2000",
+            "id": "recJOiL4XSQ37f5Xf",
+            "organization_id": "recv4Nk8G8hi7yLgS",
+            "dpmgid": "69"
+        },
+        {
             "number": "(877) 927-8387",
+            "description": "24/7 after hours line",
             "id": "recJuHCLxfa8tr4c9",
             "service_id": "recznCXqjE6qxYT6C",
             "organization_id": "recmAatEaH5NUOV4G",
             "dpmgid": "69"
         },
         {
-            "type": "Helpline",
             "number": "1-800-932-HOPE (4673)",
+            "type": "Helpline",
             "id": "recJy1iKOdbcdjboR",
             "service_id": "recLkmYEicERqSzIH",
             "organization_id": "rec4VEGc8in2PdRID",
@@ -16964,9 +16976,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "Press 1 to be connected to the Referral Line. ",
-            "type": "voice",
             "number": "4252526081",
+            "type": "voice",
+            "description": "Press 1 to be connected to the Referral Line. ",
             "id": "recKVFLtg5izmpEEV",
             "service_id": "recAikzQ8F0vLsiSW",
             "organization_id": "recLnz3vpQRSvVYD6",
@@ -17030,8 +17042,8 @@
             "dpmgid": "69"
         },
         {
-            "type": "voice",
             "number": "3603840753",
+            "type": "voice",
             "id": "recMcq0I8pZw2mowB",
             "location_id": "recmG18KyyeTXN5CH",
             "dpmgid": "69"
@@ -17104,9 +17116,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "L\u00ednea de Prevenci\u00f3n del Suicidio y Crisis",
-            "type": "Helpline",
             "number": "1 (888) 628-9454",
+            "type": "Helpline",
+            "description": "L\u00ednea de Prevenci\u00f3n del Suicidio y Crisis",
             "id": "recP43nA2tOLU0Pjg",
             "service_id": "recjkhWFtiRL1maBY",
             "organization_id": "reco8WndMJBpuIiNk",
@@ -17185,8 +17197,8 @@
             "dpmgid": "69"
         },
         {
-            "type": "voice",
             "number": "3603323008",
+            "type": "voice",
             "id": "recRzb2AjSs6rEGHr",
             "location_id": "recHPxs2Um2IBJo2R",
             "dpmgid": "69"
@@ -17217,8 +17229,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Downtown Bellingham Liaison",
             "number": "(360) 483-9561",
+            "description": "Downtown Bellingham Liaison",
             "id": "recT5PdOsLolvucqT",
             "service_id": "recw5qM0ZtLhAITZS",
             "dpmgid": "69"
@@ -17238,9 +17250,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "CostPlus Pharmacy number. ",
-            "type": "voice",
             "number": " 1-833-926-3384",
+            "type": "voice",
+            "description": "CostPlus Pharmacy number. ",
             "id": "recUAaN0hOIyxuU2n",
             "service_id": "recVW3AHdORkyUFU0",
             "organization_id": "recxVnSgI5QzXykMT",
@@ -17266,15 +17278,15 @@
             "dpmgid": "69"
         },
         {
-            "extension": "3017",
             "number": "(360) 733-2080",
+            "extension": "3017",
             "id": "recUuySq4XmQ3hnBV",
             "service_id": "recBwnyE8P3Adl06c",
             "dpmgid": "69"
         },
         {
-            "description": "TTY/TDD services number",
             "number": "1 (800) 833-6388",
+            "description": "TTY/TDD services number",
             "id": "recV1CxncCBaqK0Vk",
             "service_id": "recWwEmTeQG6WDk83",
             "dpmgid": "69"
@@ -17323,9 +17335,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "Text",
-            "type": "textphone",
             "number": "94449",
+            "type": "textphone",
+            "description": "Text",
             "id": "recVxDeYT9FwGVeVm",
             "service_id": "rec44lF9rgxOGluq4",
             "dpmgid": "69"
@@ -17337,7 +17349,7 @@
             "dpmgid": "69"
         },
         {
-            "number": "360-398-2111",
+            "number": "(360) 398-7111",
             "id": "recWDpVFtSs1XaTbV",
             "service_id": "recjkvXB663aLoLVi",
             "dpmgid": "69"
@@ -17375,11 +17387,16 @@
             "dpmgid": "69"
         },
         {
-            "description": "Sea Mar Bellingham Downtown WIC program",
             "number": "(360) 778-4280",
+            "description": "Sea Mar Bellingham Downtown WIC program",
             "id": "recY2KDQmiB0Y8peD",
             "location_id": "reclGDpXzJxozNp7t",
             "service_id": "recvR94HNska7ufRs",
+            "dpmgid": "69"
+        },
+        {
+            "number": "360-398-7111",
+            "id": "recYE8L0zSSIV5qae",
             "dpmgid": "69"
         },
         {
@@ -17390,8 +17407,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "3116",
             "number": "(360) 733-2080",
+            "extension": "3116",
             "id": "recYRuoPqRO3coWCj",
             "service_id": "recJwOFTO8sYqYIhv",
             "dpmgid": "69"
@@ -17422,8 +17439,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "3",
-            "number": "(360) 354-2893",
+            "number": "(360) 354-4443",
+            "extension": "3426",
             "id": "recZ4uSRS3uQTI218",
             "service_id": "recKclZGHPGaapYDx",
             "dpmgid": "69"
@@ -17465,8 +17482,8 @@
             "dpmgid": "69"
         },
         {
-            "type": "fax",
             "number": "(206) 328-5126",
+            "type": "fax",
             "id": "recbKbiXEvEE78msA",
             "organization_id": "recat4SzKhw660PQg",
             "dpmgid": "69"
@@ -17478,8 +17495,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "14",
             "number": "(360) 398-1442",
+            "extension": "14",
             "id": "recbmgiT3V8L4bhkN",
             "service_id": "recgfhWdV0ZamHrTA",
             "organization_id": "recFVFghCr15dhzxq",
@@ -17512,8 +17529,8 @@
             "dpmgid": "69"
         },
         {
-            "extension": "4",
             "number": "(800) 329-8387",
+            "extension": "4",
             "id": "reccrSDqs4iqWezSY",
             "service_id": "reclJeUzO4raRi17U",
             "dpmgid": "69"
@@ -17525,16 +17542,16 @@
             "dpmgid": "69"
         },
         {
-            "extension": "1426",
             "number": "(360) 734-8396",
+            "extension": "1426",
             "id": "recdcRz2XPKX3dNLF",
             "service_id": "recreZE5ZVZKNhFYl",
             "dpmgid": "69"
         },
         {
-            "description": "Text \"START\" to 88788",
-            "type": "textphone",
             "number": "88788",
+            "type": "textphone",
+            "description": "Text \"START\" to 88788",
             "id": "recddFtcgOApHPfmF",
             "service_id": "reczIQljwd1BI04wk",
             "dpmgid": "69"
@@ -17579,8 +17596,8 @@
             "dpmgid": "69"
         },
         {
-            "type": "voice",
             "number": "(360) 527-9777",
+            "type": "voice",
             "id": "recfiaw44XbZG8nkO",
             "location_id": "recMSEtR5SesnYE7O",
             "dpmgid": "69"
@@ -17618,9 +17635,9 @@
             "dpmgid": "69"
         },
         {
-            "description": "Spanish",
-            "extension": "308",
             "number": "(360) 715-0170",
+            "extension": "308",
+            "description": "Spanish",
             "id": "recggK4CnF39zA0n7",
             "service_id": "recBuvLAnapmvEPUG",
             "dpmgid": "69"
@@ -17632,8 +17649,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Bellingham FRC at Carl Cozier Elementary School",
             "number": "360-676-5085",
+            "description": "Bellingham FRC at Carl Cozier Elementary School",
             "id": "rechUnz5WjIiN3Jhx",
             "location_id": "rec2dxAXLyeoYPjov",
             "service_id": "reciMAUWn3vXUMs3l",
@@ -17660,8 +17677,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Main phone number ",
             "number": "(800) 395-5755",
+            "description": "Main phone number ",
             "id": "reciJlz5WlVo99PNJ",
             "organization_id": "recuM2gJJpCqG98Ae",
             "dpmgid": "69"
@@ -17681,20 +17698,14 @@
             "dpmgid": "69"
         },
         {
-            "number": "(360) 988-4754",
-            "id": "reciaormwHOSoHpCU",
-            "service_id": "recDWZHzvL1GZJ6HI",
-            "dpmgid": "69"
-        },
-        {
             "number": "(360) 215-2463",
             "id": "reciiWHcrTcmPNuhs",
             "service_id": "recOQMB244OvnxXmI",
             "dpmgid": "69"
         },
         {
-            "type": "voice",
             "number": "(360) 201-8737",
+            "type": "voice",
             "id": "reciqcMsbcey7XsYI",
             "service_id": "recGianFqudMk59Nz",
             "contact_id": "rec1UCvwzwAII0N5G",
@@ -17739,8 +17750,8 @@
             "dpmgid": "69"
         },
         {
-            "description": "Videophone",
             "number": "(206) 452-7953",
+            "description": "Videophone",
             "id": "recjxbM5JXlOM1kgU",
             "service_id": "recfgtuk4U9cWO70T",
             "dpmgid": "69"
@@ -18156,6 +18167,12 @@
             "dpmgid": "69"
         },
         {
+            "number": "360-398-2111",
+            "id": "recxOgH2jUPxdm8HM",
+            "service_id": "recxsDN1L3JXGjQGf",
+            "dpmgid": "69"
+        },
+        {
             "number": "360-305-3632",
             "id": "recxhydfpfIkZtHud",
             "location_id": "recCyM6OfxpT7r2Ji",
@@ -18238,8 +18255,8 @@
             "dpmgid": "69"
         },
         {
-            "type": "office",
             "number": "(360) 734-3858",
+            "type": "office",
             "id": "ef6f141e8045adf84e9efdd68354fd70",
             "service_id": "reckti7F6kdybn2Q7",
             "organization_id": "recEoZscI9HHjgXwr",
@@ -18247,8 +18264,8 @@
             "source_id": "rec0fiGBTILY6qNpV"
         },
         {
-            "type": "office",
             "number": "(360) 734-3858",
+            "type": "office",
             "id": "8413d177ce9a461d87994ca9ea10826f",
             "service_id": "recrV2fEIQGFdbVjE",
             "organization_id": "recEoZscI9HHjgXwr",
@@ -18469,16 +18486,16 @@
             "source_id": "rec6xYJNReKbHheC4"
         },
         {
-            "extension": "1227",
             "number": "(360) 734-8396",
+            "extension": "1227",
             "id": "5bbf8319fe61d64e380d77be4aab0d44",
             "service_id": "recca6n3nMKZAvFMt",
             "dpmgid": "69",
             "source_id": "rec79KUVBAzDrmPFs"
         },
         {
-            "extension": "1227",
             "number": "(360) 734-8396",
+            "extension": "1227",
             "id": "988effe97752a2a17c35cbb37640e6c0",
             "service_id": "recuMsqTBGi7wU8Hz",
             "dpmgid": "69",
@@ -18543,8 +18560,8 @@
             "source_id": "rec87YVTFiDeMylqF"
         },
         {
-            "type": "office",
             "number": "(425) 894-7231",
+            "type": "office",
             "id": "7216a21391e6a7fd40a94f72f9fc58b8",
             "service_id": "recAHLtnjzNcDYTeX",
             "organization_id": "recF3EsD8udj7kQ3S",
@@ -18552,8 +18569,8 @@
             "source_id": "rec8NfY5hsWtGL3lK"
         },
         {
-            "type": "office",
             "number": "(425) 894-7231",
+            "type": "office",
             "id": "7c185c42612967d0e7219305ee211e05",
             "service_id": "recux6o8y2FKwf4lP",
             "organization_id": "recF3EsD8udj7kQ3S",
@@ -18561,8 +18578,8 @@
             "source_id": "rec8NfY5hsWtGL3lK"
         },
         {
-            "type": "office",
             "number": "(425) 894-7231",
+            "type": "office",
             "id": "d6dccfb7b69712538a918868c4f8e52b",
             "service_id": "recRRQYKA63xQ311D",
             "organization_id": "recF3EsD8udj7kQ3S",
@@ -18570,8 +18587,8 @@
             "source_id": "rec8NfY5hsWtGL3lK"
         },
         {
-            "type": "office",
             "number": "(425) 894-7231",
+            "type": "office",
             "id": "93051a7ff299593eb512e9b0ae039f07",
             "service_id": "recHbGBGZVRIZKWcN",
             "organization_id": "recF3EsD8udj7kQ3S",
@@ -19027,8 +19044,8 @@
             "source_id": "recJHfBIyRuXM2TZ5"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "173c83f99665a09412d7294de76be969",
             "service_id": "recEEHKYscbyHcbjm",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19036,8 +19053,8 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "50bf7e87e03c9607212a87064a5a5cc9",
             "service_id": "recNAsukvZMA15FOt",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19045,8 +19062,8 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "15eee7bcf910aef1432765725daa5456",
             "service_id": "recviKjo3KIOjA3U8",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19054,8 +19071,8 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "a32ff4be13be951e2207773827030807",
             "service_id": "rec5OWmtVL503DMpr",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19063,8 +19080,8 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "6ef0af98b1080c6920d996d773e8abc6",
             "service_id": "recTDe3rfT71Y5va4",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19072,8 +19089,8 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "6344eb6b3cebc30f462bd28dfed371f5",
             "service_id": "recx8WAuti0AKQoYj",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19081,8 +19098,8 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 715-1563",
+            "description": "24-hour hotline",
             "id": "eaf9663468ad0502b3da245045edaa61",
             "service_id": "rec5wpZ9hzSIXFJqX",
             "organization_id": "recQoHGS6iV9TYdV2",
@@ -19090,96 +19107,96 @@
             "source_id": "recJg6odpoyG43r8S"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "36a995b37ce90c5754ce76844b5f810d",
             "service_id": "recerbCimUhaGY8QQ",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "4926c567f99583201c98c8fe8f85ffb1",
             "service_id": "recr69IDkbt5e6Q5V",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "809e5acdbf9e4eed169ebec9396cb0d9",
             "service_id": "recuu4MmCSpQrLNIT",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "275b370f5d2fa858564669672816c63f",
             "service_id": "rec0q0y5OZY55lhKA",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "65881a59ecfef36e46e7c9e80c5084b3",
             "service_id": "recqiAvBnpSJQs1OW",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "f82cc393a06622949f31d0c53f8e46c2",
             "service_id": "recUcPyJrqmHUaAwG",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "002ea51a347e0b1d778ac91177573cab",
             "service_id": "recvEuwdPujXE3y11",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "option 3",
             "number": "(360) 734-5121",
+            "extension": "option 3",
             "id": "753e703ffea26ed418b895d0a43ff42c",
             "service_id": "receiilFq21FvoxRc",
             "dpmgid": "69",
             "source_id": "recJwYgvMfgPM7jwk"
         },
         {
-            "extension": "1223",
             "number": "(360) 734-5121",
+            "extension": "1223",
             "id": "f4f413af3a95b9fdd4a4276094d6d21d",
             "service_id": "recLIg3cQKtJadOkM",
             "dpmgid": "69",
             "source_id": "recKNHxMxaZwIr4Ob"
         },
         {
-            "extension": "1223",
             "number": "(360) 734-5121",
+            "extension": "1223",
             "id": "0ba24bd5711f301100c80128e3d087ea",
             "service_id": "recLZF33TOADI5tvy",
             "dpmgid": "69",
             "source_id": "recKNHxMxaZwIr4Ob"
         },
         {
-            "extension": "1223",
             "number": "(360) 734-5121",
+            "extension": "1223",
             "id": "86c232916c2fbffb364595c6138cce9c",
             "service_id": "recsxlaX4BKdL2Qig",
             "dpmgid": "69",
             "source_id": "recKNHxMxaZwIr4Ob"
         },
         {
-            "extension": "1223",
             "number": "(360) 734-5121",
+            "extension": "1223",
             "id": "01fb43b5ee6b887ff202e98a2055c1cc",
             "service_id": "recPTlFdQ6fj2ZyPe",
             "dpmgid": "69",
@@ -19363,9 +19380,9 @@
             "source_id": "recLnQeDPnLZ7i6N1"
         },
         {
-            "description": "CLEAR Hotline",
-            "type": "Helpline",
             "number": "1-888-201-1014",
+            "type": "Helpline",
+            "description": "CLEAR Hotline",
             "id": "fa0c3cd0692da66feb627d512b99a420",
             "service_id": "recKOnPmzqYkEkanK",
             "organization_id": "recX4BjXeBvMTyt2b",
@@ -19373,9 +19390,9 @@
             "source_id": "recM7tbvZN7tHMRk4"
         },
         {
-            "description": "CLEAR Hotline",
-            "type": "Helpline",
             "number": "1-888-201-1014",
+            "type": "Helpline",
+            "description": "CLEAR Hotline",
             "id": "7806f52f7229a801363ab339c41703b6",
             "service_id": "recHsqUIU8kF8GxiZ",
             "organization_id": "recX4BjXeBvMTyt2b",
@@ -19383,9 +19400,9 @@
             "source_id": "recM7tbvZN7tHMRk4"
         },
         {
-            "description": "CLEAR Hotline",
-            "type": "Helpline",
             "number": "1-888-201-1014",
+            "type": "Helpline",
+            "description": "CLEAR Hotline",
             "id": "57547fa6d39126f7392b99485ecf862f",
             "service_id": "reczfgvSebCGYq9oh",
             "organization_id": "recX4BjXeBvMTyt2b",
@@ -19393,9 +19410,9 @@
             "source_id": "recM7tbvZN7tHMRk4"
         },
         {
-            "description": "CLEAR Hotline",
-            "type": "Helpline",
             "number": "1-888-201-1014",
+            "type": "Helpline",
+            "description": "CLEAR Hotline",
             "id": "390c0936b9856c97d870a3201125d08f",
             "service_id": "rec5Zq4TArwndKxzs",
             "organization_id": "recX4BjXeBvMTyt2b",
@@ -19563,8 +19580,8 @@
             "source_id": "recPqe09M9sCTibe7"
         },
         {
-            "description": "Prevention and Screening Clinic, Communicable Disease, and Epidemiology Phone",
             "number": "360-778-6100",
+            "description": "Prevention and Screening Clinic, Communicable Disease, and Epidemiology Phone",
             "id": "72bd0f88688e387e8bfd25c012212ddc",
             "location_id": "recfLyLq0rN4zRvAT",
             "service_id": "recK4P1RH9GeGj8yO",
@@ -19572,8 +19589,8 @@
             "source_id": "recPtycPIw43zSuvp"
         },
         {
-            "description": "Prevention and Screening Clinic, Communicable Disease, and Epidemiology Phone",
             "number": "360-778-6100",
+            "description": "Prevention and Screening Clinic, Communicable Disease, and Epidemiology Phone",
             "id": "3f87cb5e290a015bca963c1584c62def",
             "location_id": "recfLyLq0rN4zRvAT",
             "service_id": "recGF9mPH4Toda1iq",
@@ -19581,8 +19598,8 @@
             "source_id": "recPtycPIw43zSuvp"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 734-1688",
+            "description": "24-hour hotline",
             "id": "e993cecca180ca35ba7b21182acc42e7",
             "service_id": "recUojGl9w7LHNpF9",
             "organization_id": "rec9xw5yCbW0WZNN7",
@@ -19590,8 +19607,8 @@
             "source_id": "recQEGDSLbIYqoJgD"
         },
         {
-            "description": "24-hour hotline",
             "number": "(360) 734-1688",
+            "description": "24-hour hotline",
             "id": "0dae80f8ba17a77a35c5294eba49b4c4",
             "service_id": "recWGPbky5uegAR7W",
             "organization_id": "rec9xw5yCbW0WZNN7",
@@ -19767,8 +19784,8 @@
             "source_id": "recRKvq1y1Wj6uAZo"
         },
         {
-            "description": "Videophone",
             "number": "(360) 255-7166",
+            "description": "Videophone",
             "id": "4217ebb086aea7606997abe49671b849",
             "service_id": "recRoyaoRdGEecRpp",
             "organization_id": "rec6Lsjtx7SuD4tFY",
@@ -19776,8 +19793,8 @@
             "source_id": "recTFuziHthAaiVGR"
         },
         {
-            "description": "Videophone",
             "number": "(360) 255-7166",
+            "description": "Videophone",
             "id": "72662a7c446877873c3d02b714f28808",
             "service_id": "recEdGsbJ9swfKIbt",
             "organization_id": "rec6Lsjtx7SuD4tFY",
@@ -19812,40 +19829,40 @@
             "source_id": "recUN26l1PVvBv2p6"
         },
         {
-            "extension": "1020",
             "number": "(360) 734-5121",
+            "extension": "1020",
             "id": "3ce65b7411757fc4363211f3ddcd80a3",
             "service_id": "rec3puwmJjq0gDGKQ",
             "dpmgid": "69",
             "source_id": "recUmbolnvMmXf5el"
         },
         {
-            "extension": "1020",
             "number": "(360) 734-5121",
+            "extension": "1020",
             "id": "23e06713ce66877a54288a9f62925723",
             "service_id": "recNvyfhGyMFZj6x9",
             "dpmgid": "69",
             "source_id": "recUmbolnvMmXf5el"
         },
         {
-            "extension": "1020",
             "number": "(360) 734-5121",
+            "extension": "1020",
             "id": "04811e8dde6c6f2329b9a336aedafb68",
             "service_id": "recbeDcnYyeRXDvdY",
             "dpmgid": "69",
             "source_id": "recUmbolnvMmXf5el"
         },
         {
-            "extension": "1020",
             "number": "(360) 734-5121",
+            "extension": "1020",
             "id": "18eef703b78ffbe6e69dec489ea787fa",
             "service_id": "recOV8r9VoRNtt5q5",
             "dpmgid": "69",
             "source_id": "recUmbolnvMmXf5el"
         },
         {
-            "extension": "1020",
             "number": "(360) 734-5121",
+            "extension": "1020",
             "id": "d61e5557d6c3e31ae24aa15ed41bcc05",
             "service_id": "recG6L4ota3cauEXd",
             "dpmgid": "69",
@@ -19992,32 +20009,32 @@
             "source_id": "recXtMR0j5Flf8tJD"
         },
         {
-            "extension": "16",
             "number": "(360) 671-6079",
+            "extension": "16",
             "id": "f019ed6bb31209c21c0fa1ec64122ab4",
             "service_id": "reckaHmYgK6QAQI9G",
             "dpmgid": "69",
             "source_id": "recY1lEqNHCcRmp9k"
         },
         {
-            "extension": "16",
             "number": "(360) 671-6079",
+            "extension": "16",
             "id": "fa03bad04c09b6e69e36c43ec3ce9717",
             "service_id": "recTrtLNw1BCL0xkE",
             "dpmgid": "69",
             "source_id": "recY1lEqNHCcRmp9k"
         },
         {
-            "extension": "16",
             "number": "(360) 671-6079",
+            "extension": "16",
             "id": "36cff9d3692530b8a4acee767e95e569",
             "service_id": "rec1rwRnvD67ZMjFo",
             "dpmgid": "69",
             "source_id": "recY1lEqNHCcRmp9k"
         },
         {
-            "extension": "16",
             "number": "(360) 671-6079",
+            "extension": "16",
             "id": "f3893628c439652e2b87f0a2c202ee90",
             "service_id": "recLmmKNt1EblyJJu",
             "dpmgid": "69",
@@ -20184,8 +20201,8 @@
             "source_id": "recb3kvmNachsEcy8"
         },
         {
-            "description": "Bellingham Medical Clinic WIC program",
             "number": "(360) 788-7150",
+            "description": "Bellingham Medical Clinic WIC program",
             "id": "17b5800d12f06f42b55e1bda27349ea4",
             "location_id": "rec7NGbVYLxm9Ks6T",
             "service_id": "recvR94HNska7ufRs",
@@ -20193,8 +20210,8 @@
             "source_id": "reccPz4aQoYgcog1u"
         },
         {
-            "description": "Bellingham Medical Clinic WIC program",
             "number": "(360) 788-7150",
+            "description": "Bellingham Medical Clinic WIC program",
             "id": "3e4fa4b2546e83b4ae56fc07979cfbd0",
             "location_id": "rec7NGbVYLxm9Ks6T",
             "service_id": "recMTujnsDXXHOsKK",
@@ -20359,18 +20376,18 @@
             "source_id": "recemwPxvP3ULLIxJ"
         },
         {
-            "description": "CLEAR*Sr",
-            "type": "Helpline",
             "number": "1-888-387-7111",
+            "type": "Helpline",
+            "description": "CLEAR*Sr",
             "id": "db131e5de3dfd3f9374396936654cd35",
             "service_id": "reczfgvSebCGYq9oh",
             "dpmgid": "69",
             "source_id": "recepZVRH2wgQYmes"
         },
         {
-            "description": "CLEAR*Sr",
-            "type": "Helpline",
             "number": "1-888-387-7111",
+            "type": "Helpline",
+            "description": "CLEAR*Sr",
             "id": "225c7491115a545dc2512b509b240fbc",
             "service_id": "recRCt53cenYbx6Sw",
             "dpmgid": "69",
@@ -20501,6 +20518,20 @@
             "organization_id": "recDRGaYYXbjEwXR4",
             "dpmgid": "69",
             "source_id": "reciIvcRDih62e2cm"
+        },
+        {
+            "number": "(360) 988-4754",
+            "id": "fead9bcc4f12e5bd975f242c955af402",
+            "service_id": "recDWZHzvL1GZJ6HI",
+            "dpmgid": "69",
+            "source_id": "reciaormwHOSoHpCU"
+        },
+        {
+            "number": "(360) 988-4754",
+            "id": "169d4592c14b9cf0f0cbc618d62e3fdd",
+            "service_id": "recTCxXVE7AN2ClJ2",
+            "dpmgid": "69",
+            "source_id": "reciaormwHOSoHpCU"
         },
         {
             "number": "(360) 354-4673",
